@@ -24,7 +24,7 @@ WITH tbl1 AS (
 tbl2 AS(
 	SELECT a.name, avg(total_amt_usd) total_spent
 	FROM accounts a
-  JOIN orders o
+	JOIN orders o
 	ON o.account_id = a.id
 	GROUP BY a.name
 	HAVING AVG(total_amt_usd) > (SELECT * FROM tbl1)
