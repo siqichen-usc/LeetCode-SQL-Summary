@@ -55,10 +55,10 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 
 
-## LeetCode SQL Questions by #
+## LeetCode SQL Questions by ID
 
- **#** | **Title** | **Difficulty** | **Solution 1** | **Solution 2** |**Solution 3** |
-|---|---|---|---|---|---|
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Join](../blob/master/Join/Simple-Join/175_Combine_Two_Tables.sql) | | |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Subquery](../blob/master/Subquery/Simple-Subquery/176_Second_Highest_Salary.sql)| [Window Function](../blob/master/Window-Function/176_Second_Highest_Salary.sql)  |[OFFSET FETCH](../blob/master/OFFSET-FETCH/176_Second_Highest_Salary.sql) |
+ **#** | **Title** | **Difficulty** | **Solution** |
+|---|---|---|---|
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../blob/master/Questions_by_ID/175_Combine_Two_Tables.sql) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../blob/master/Questions_by_ID/176_Second_Highest_Salary.sql) |
 
