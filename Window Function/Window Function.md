@@ -2,8 +2,8 @@
 
 ## Basic Structure
 ```SQL
-SELECT TOP 10 standard_amt_usd, MONTH(occured_at),
-  SUM(standard_amt_usd) OVER (
+SELECT TOP 10 standard_amt_usd, MONTH(occured_at)
+  ,SUM(standard_amt_usd) OVER (
     PARTITION BY MONTH(occured_at)
     ORDER BY occurred_at
     ) AS running_total
