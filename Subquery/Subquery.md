@@ -5,7 +5,7 @@
 ```SQL
 SELECT AVG(total_spent)
 FROM (
-  SELECT TOP 10 a.name, SUM(total_amt_usd) total_spent
+  SELECT TOP 10 a.name, SUM(total_amt_usd) AS total_spent
   FROM accounts a
     JOIN orders o
       ON o.account_id = a.id
