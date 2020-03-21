@@ -22,7 +22,7 @@ WITH tbl1 AS (
 	FROM orders
 ),
 tbl2 AS(
-	SELECT a.name, avg(total_amt_usd) total_spent
+	SELECT a.name, AVG(total_amt_usd) total_spent
 	FROM accounts a
 	JOIN orders o
 	ON o.account_id = a.id
