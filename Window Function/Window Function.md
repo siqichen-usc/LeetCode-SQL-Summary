@@ -14,11 +14,10 @@ FROM orders
 
 - Window functions **_cannot_** be used in **HAVING** clause.
 
-1. **```ROW_NUMBER()```** does just what it sounds like — displays the number of a given row. It starts at 1 and numbers the rows according to the ORDER BY part of the window statement. ROW_NUMBER() does not require you to specify a variable within the parentheses. Using the PARTITION BY clause will allow you to begin
-	counting 1 again in each partition.
+1. **```ROW_NUMBER()```** does just what it sounds like — displays **the number of a given row**. It starts at 1 and numbers the rows according to the **ORDER BY** part of the window statement. **ROW_NUMBER()** does not require you to specify a variable within the parentheses. Using the **PARTITION BY** clause will allow you to begin counting 1 again in each partition.
 2. **```RANK()```** returns the rank of each row within the partition of a result set. The rank of a row is one plus the number of ranks that come before the row in question.
-3. **```DENSE_RANK()```** returns the rank of each row within a result set partition, with no gaps in the ranking values. The rank of a specific row is one plus the number of distinct rank values that come before that specific row.
-4. **```NTILE(# of buckets)```** distributes the rows in an ordered partition into a specified number of groups. The groups are numbered, starting at one. For each row, NTILE returns the number of the group to which the row belongs. In this case, ORDER BY determines which column to use to determine the quartiles (or whatever number of tiles you specify).
+3. **```DENSE_RANK()```** returns the rank of each row within a result set partition, with **no gaps in the ranking values**. The rank of a specific row is one plus the number of distinct rank values that come before that specific row.
+4. **```NTILE(# of buckets)```** distributes the rows in an ordered partition into a specified number of groups. The groups are numbered, starting at one. For each row, **NTILE** returns the number of the group to which the row belongs. In this case, **ORDER BY** determines which column to use to determine the quartiles (or whatever number of tiles you specify).
 
 This example shows the four ranking functions
 
