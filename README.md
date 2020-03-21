@@ -25,4 +25,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 ### Recursive CTE
 
-###
+### OFFSET FETCH
