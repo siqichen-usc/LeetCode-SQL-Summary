@@ -1,4 +1,4 @@
--- Solution: Join, Subquery
+-- Solution: Subquery, Join
 WITH max_salary AS (
     SELECT departmentid, max(salary) AS max_salary
     FROM employee
@@ -14,7 +14,7 @@ JOIN department d
   
 
 
--- Solution: Join, Window Function
+-- Solution: Subquery, Window Function
 SELECT department, employee, salary
 FROM (
     SELECT d.name department, e.name employee ,salary,
