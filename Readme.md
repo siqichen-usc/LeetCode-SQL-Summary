@@ -32,6 +32,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | [Soln.](../master/Join/Simple-Join/181_Employees_Earning_More_Than_Their_Managers.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Soln.](../master/Join/Simple-Join/183_Customers_Who_Never_Order.sql) |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Join/Simple-Join/184_Department_Highest_Salary.sql) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [Soln.](../master/Join/Simple-Join/197_Rising_Temperature.sql) |
 
 - Advanced Join
 
@@ -55,7 +56,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/183_Customers_Who_Never_Order.sql) |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/184_Department_Highest_Salary.sql) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/196_Delete_Duplicate_Emails.sql) |
-
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/197_Rising_Temperature.sql) |
 
 
 -  Advanced Subquery
@@ -83,6 +84,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | [Soln.](../master/Window-Function/180_Consecutive_Numbers.sql) |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Window-Function/184_Department_Highest_Salary.sql) |
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard |  [Soln.](../master/Window-Function/185_Department_Top_Three_Salaries.sql) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [Soln.](../master/Window-Function/197_Rising_Temperature.sql) |
 
 
 
@@ -111,3 +113,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Questions_by_ID/184_Department_Highest_Salary.sql) |
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard | [Soln.](../master/Questions_by_ID/185_Department_Top_Three_Salaries.sql) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/Questions_by_ID/196_Delete_Duplicate_Emails.sql) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [Soln.](../master/Questions_by_ID/197_Rising_Temperature.sql) |
