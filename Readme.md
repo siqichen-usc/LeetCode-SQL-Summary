@@ -19,7 +19,18 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Join/Simple-Join/175_Combine_Two_Tables.sql) |
 
 
-- Complex Join
+
+
+- Advanced Join
+
+| **#** | **Title** | **Difficulty** | **Solution** | 
+|---|---|---|---|
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | [Soln.](../master/Advanced-Join/180_Consecutive_Numbers.sql) |
+
+
+
+
+
 
 ### Subquery
 
@@ -33,16 +44,18 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 
 
-### Windows Function
+
+
+
+### Window Function
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Window-Function/176_Second_Highest_Salary.sql) |
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/Window-Function/177_Nth_Highest_Salary.sql) |
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [Soln.](../master/Window-Function/178_Rank_Scores.sql) |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | [Soln.](../master/Window-Function/180_Consecutive_Numbers.sql) |
 
-
-
-
-### Recursive CTE
 
 
 
@@ -51,8 +64,13 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../blob/master/OFFSET-FETCH/176_Second_Highest_Salary.sql) |
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/OFFSET-FETCH/177_Nth_Highest_Salary.sql) |
 
 
+
+### Recursive CTE
+| **#** | **Title** | **Difficulty** | **Solution** | 
+|---|---|---|---|
 
 
 ## LeetCode SQL Questions by ID
@@ -61,4 +79,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 |---|---|---|---|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Questions_by_ID/175_Combine_Two_Tables.sql) |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Questions_by_ID/176_Second_Highest_Salary.sql) |
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/Questions_by_ID/177_Nth_Highest_Salary.sql) |
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [Soln.](../master/Questions_by_ID/178_Rank_Scores.sql) |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | [Soln.](../master/Questions_by_ID/180_Consecutive_Numbers.sql) |
+
 
