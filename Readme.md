@@ -16,7 +16,10 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 |---|---|---|---|
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [Soln.](../master/Basics/182_Duplicate_Emails.sql) |
 
-
+### SQL Command
+| **#** | **Title** | **Difficulty** | **Solution** | 
+|---|---|---|---|
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/SQL-Command/196_Delete_Duplicate_Emails.sql) |
 
 ### Join
 
@@ -34,7 +37,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
-| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | [Soln.](../master/Advanced-Join/180_Consecutive_Numbers.sql) |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | [Soln.](../master/Join/Advanced-Join/180_Consecutive_Numbers.sql) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/Join/Advanced-Join/196_Delete_Duplicate_Emails.sql) |
 
 
 
@@ -50,6 +54,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/176_Second_Highest_Salary.sql)|
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/183_Customers_Who_Never_Order.sql) |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/184_Department_Highest_Salary.sql) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/196_Delete_Duplicate_Emails.sql) |
+
+
 
 -  Advanced Subquery
 
@@ -102,4 +109,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [Soln.](../master/Questions_by_ID/182_Duplicate_Emails.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Soln.](../master/Questions_by_ID/183_Customers_Who_Never_Order.sql) |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Questions_by_ID/184_Department_Highest_Salary.sql) |
-| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard |  [Soln.](../master/Questions_by_ID/185_Department_Top_Three_Salaries.sql) |
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard | [Soln.](../master/Questions_by_ID/185_Department_Top_Three_Salaries.sql) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/Questions_by_ID/196_Delete_Duplicate_Emails.sql) |
