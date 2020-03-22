@@ -5,4 +5,4 @@ FROM (
         LAG(num) OVER (ORDER BY id)  AS prev
     FROM logs
     ) tb1
-WHERE num = next AND next = prev
+WHERE num = next AND next = prev;
