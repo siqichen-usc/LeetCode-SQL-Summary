@@ -25,4 +25,4 @@ FROM (
     JOIN department d
         ON e.departmentid = d.id
     ) AS tb1
-WHERE r = 1
+WHERE r = 1;
