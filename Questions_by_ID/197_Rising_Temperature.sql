@@ -1,4 +1,4 @@
--- Solution: Join
+-- Solution 1: Join
 SELECT w2.id
 FROM weather w1
 JOIN weather w2
@@ -7,7 +7,7 @@ WHERE w1.temperature < w2.temperature
 
 
 
--- Solution: Window Function, Subquery
+-- Solution 2: Window Function, Subquery
 SELECT id
 FROM (
     SELECT *, LAG(temperature) OVER (ORDER BY recorddate) AS prev_temp,
