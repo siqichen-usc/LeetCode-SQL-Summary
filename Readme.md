@@ -28,7 +28,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Join/Simple-Join/175_Combine_Two_Tables.sql) |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | [Soln.](../master/Join/Simple-Join/181_Employees_Earning_More_Than_Their_Managers.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Soln.](../master/Join/Simple-Join/183_Customers_Who_Never_Order.sql) |
-
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Join/Simple-Join/184_Department_Highest_Salary.sql) |
 
 - Advanced Join
 
@@ -49,9 +49,19 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 |---|---|---|---|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/176_Second_Highest_Salary.sql)|
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/183_Customers_Who_Never_Order.sql) |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/184_Department_Highest_Salary.sql) |
+
+-  Advanced Subquery
+
+| **#** | **Title** | **Difficulty** | **Solution** | 
+|---|---|---|---|
 
 
 
+-  Recursive CTE
+
+| **#** | **Title** | **Difficulty** | **Solution** | 
+|---|---|---|---|
 
 
 
@@ -64,7 +74,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/Window-Function/177_Nth_Highest_Salary.sql) |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [Soln.](../master/Window-Function/178_Rank_Scores.sql) |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | [Soln.](../master/Window-Function/180_Consecutive_Numbers.sql) |
-
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Window-Function/184_Department_Highest_Salary.sql) |
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard |  [Soln.](../master/Window-Function/185_Department_Top_Three_Salaries.sql) |
 
 
 
@@ -74,12 +85,6 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 |---|---|---|---|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../blob/master/OFFSET-FETCH/176_Second_Highest_Salary.sql) |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/OFFSET-FETCH/177_Nth_Highest_Salary.sql) |
-
-
-
-### Recursive CTE
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
 
 
 
@@ -96,4 +101,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | [Soln.](../master/Questions_by_ID/181_Employees_Earning_More_Than_Their_Managers.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [Soln.](../master/Questions_by_ID/182_Duplicate_Emails.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Soln.](../master/Questions_by_ID/183_Customers_Who_Never_Order.sql) |
-
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Questions_by_ID/184_Department_Highest_Salary.sql) |
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard |  [Soln.](../master/Questions_by_ID/185_Department_Top_Three_Salaries.sql) |
