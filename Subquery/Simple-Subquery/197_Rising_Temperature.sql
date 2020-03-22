@@ -4,4 +4,4 @@ FROM (
         LAG(recorddate) OVER (ORDER BY recorddate) prev_date
     FROM weather
     ) tb1
-WHERE DATEADD(day,1,prev_date) = recorddate AND prev_temp < temperature
+WHERE DATEADD(day,1,prev_date) = recorddate AND prev_temp < temperature;
