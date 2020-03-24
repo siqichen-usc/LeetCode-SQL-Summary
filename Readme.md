@@ -38,6 +38,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [Soln.](../master/Join/Simple-Join/197_Rising_Temperature.sql) |
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/Join/Simple-Join/262_Trips_and_Users.sql) |
 | 512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/) | Easy | [Soln.](../master/Join/Simple-Join/512_Game_Play_Analysis_II.sql) |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Join/Simple-Join/550_Game_Play_Analysis_IV.sql) |
+
 
 
 
@@ -77,6 +79,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/262_Trips_and_Users.sql) |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/550_Game_Play_Analysis_IV.sql) |
+
 
 
 
@@ -101,7 +105,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [Soln.](../master/Window-Function/197_Rising_Temperature.sql) |
 | 512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/) | Easy | [Soln.](../master/Window-Function/512_Game_Play_Analysis_II.sql) |
 | 534 | [Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/) | Medium | [Soln.](../master/Window-Function/534_Game_Play_Analysis_III.sql) |
-
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Window-Function/550_Game_Play_Analysis_IV.sql) |
 
 
 ### OFFSET FETCH
@@ -134,3 +138,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | [Soln.](../master/Questions_by_ID/511_Game_Play_Analysis_I.sql) |
 | 512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/) | Easy | [Soln.](../master/Questions_by_ID/512_Game_Play_Analysis_II.sql) |
 | 534 | [Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/) | Medium | [Soln.](../master/Questions_by_ID/534_Game_Play_Analysis_III.sql) |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Questions_by_ID/550_Game_Play_Analysis_IV.sql) |
