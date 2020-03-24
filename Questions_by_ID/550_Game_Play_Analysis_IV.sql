@@ -13,7 +13,7 @@ ON tb1.r = 1 AND tb1.player_id = a.player_id
     
  
  
--- Solution q: Subquery, Window Function
+-- Solution 2: Subquery, Window Function
 WITH tb2 as (
 SELECT player_id 
 FROM (
