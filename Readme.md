@@ -18,6 +18,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [Soln.](../master/Basics/182_Duplicate_Emails.sql) |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | [Soln.](../master/Basics/511_Game_Play_Analysis_I.sql) |
 | 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | Medium | [Soln.](../master/Basics/578_Get_Highest_Answer_Rate_Question.sql) | 
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [Soln.](../master/Basics/584_Find_Customer_Referee.sql) | 
 
 ### SQL Command
 
@@ -168,3 +169,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | Medium | [Soln.](../master/Questions_by_ID/578_Get_Highest_Answer_Rate_Question.sql) | 
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | Hard | [Soln.](../master/Questions_by_ID/579_Find_Cumulative_Salary_of_an_Employee.sql) | 
 | 580 | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/) | Medium | [Soln.](../master/Questions_by_ID/580_Count_Student_Number_in_Departments.sql) | 
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [Soln.](../master/Questions_by_ID/584_Find_Customer_Referee.sql) | 
