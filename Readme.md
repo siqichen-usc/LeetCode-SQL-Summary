@@ -19,6 +19,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | [Soln.](../master/Basics/511_Game_Play_Analysis_I.sql) |
 | 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | Medium | [Soln.](../master/Basics/578_Get_Highest_Answer_Rate_Question.sql) | 
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [Soln.](../master/Basics/584_Find_Customer_Referee.sql) | 
+| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | [Soln.](../master/Basics/586_Customer_Placing_the_Largest_Number_of_Orders.sql) | 
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](../master/Basics/595_Big_Countries.sql) | 
 
 ### SQL Command
 
@@ -92,6 +94,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/262_Trips_and_Users.sql) |
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/550_Game_Play_Analysis_IV.sql) |
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/569_Median_Employee_Salary.sql) |
+| 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/585_Investments_in_2016.sql) | 
 
 
 
@@ -121,6 +124,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Window-Function/569_Median_Employee_Salary.sql) |
 | 571 | [Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) | Hard | [Soln.](../master/Window-Function/571_Find_Median_Given_Frequency_of_Numbers.sql) |
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | Hard | [Soln.](../master/Window-Function/579_Find_Cumulative_Salary_of_an_Employee.sql) | 
+| 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | [Soln.](../master/Window-Function/585_Investments_in_2016.sql) | 
 
 
 ### CASE WHEN
@@ -170,3 +174,6 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | Hard | [Soln.](../master/Questions_by_ID/579_Find_Cumulative_Salary_of_an_Employee.sql) | 
 | 580 | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/) | Medium | [Soln.](../master/Questions_by_ID/580_Count_Student_Number_in_Departments.sql) | 
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [Soln.](../master/Questions_by_ID/584_Find_Customer_Referee.sql) | 
+| 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | [Soln.](../master/Questions_by_ID/585_Investments_in_2016.sql) | 
+| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | [Soln.](../master/Questions_by_ID/586_Customer_Placing_the_Largest_Number_of_Orders.sql) | 
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](../master/Questions_by_ID/595_Big_Countries.sql) | 
