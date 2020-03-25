@@ -10,4 +10,4 @@ WITH tb1 AS (
 
 SELECT id, company, salary
 FROM tb1
-WHERE r BETWEEN num*1.0/2 AND num*1.0/2 + 1
+WHERE r BETWEEN num*1.0/2 AND num*1.0/2 + 1;
