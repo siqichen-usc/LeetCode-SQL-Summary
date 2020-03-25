@@ -1,4 +1,4 @@
--- Solution 1: Subquery
+-- Solution 1: Subquery, CASE WHEN
 WITH t1 AS (
     SELECT request_at, 
         CASE 
@@ -18,7 +18,7 @@ GROUP BY request_at;
 
 
 
--- Solution 2: Join
+-- Solution 2: Join, CASE WHEN
 SELECT t.Request_at AS 'Day', 
     CAST(
         AVG(CASE 
