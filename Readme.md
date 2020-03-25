@@ -40,7 +40,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/) | Easy | [Soln.](../master/Join/Simple-Join/512_Game_Play_Analysis_II.sql) |
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Join/Simple-Join/550_Game_Play_Analysis_IV.sql) |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | [Soln.](../master/Join/Simple-Join/570_Managers_with_at_Least_5_Direct_Reports.sql) |
-
+| 574 | [Winning Candidate](https://leetcode.com/problems/winning-candidate/) | Medium | [Soln.](../master/Join/Simple-Join/574_Winning_Candidate.sql) |
 
 
 
@@ -53,6 +53,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | [Soln.](../master/Join/Advanced-Join/180_Consecutive_Numbers.sql) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/Join/Advanced-Join/196_Delete_Duplicate_Emails.sql) |
 | 534 | [Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/) | Medium | [Soln.](../master/Join/Advanced-Join/534_Game_Play_Analysis_III.sql) |
+| 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Join/Advanced-Join/569_Median_Employee_Salary.sql) |
 
 
 
@@ -74,7 +75,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/569_Median_Employee_Salary.sql) |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/570_Managers_with_at_Least_5_Direct_Reports.sql) |
 | 571 | [Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/571_Find_Median_Given_Frequency_of_Numbers.sql) |
-
+| 574 | [Winning Candidate](https://leetcode.com/problems/winning-candidate/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/574_Winning_Candidate.sql) |
 
 -  Advanced Subquery
 
@@ -82,6 +83,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 |---|---|---|---|
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/262_Trips_and_Users.sql) |
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/550_Game_Play_Analysis_IV.sql) |
+| 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/569_Median_Employee_Salary.sql) |
 
 
 
@@ -146,3 +148,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Questions_by_ID/569_Median_Employee_Salary.sql) |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | [Soln.](../master/Questions_by_ID/570_Managers_with_at_Least_5_Direct_Reports.sql) |
 | 571 | [Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers/) | Hard | [Soln.](../master/Questions_by_ID/571_Find_Median_Given_Frequency_of_Numbers.sql) |
+| 574 | [Winning Candidate](https://leetcode.com/problems/winning-candidate/) | Medium | [Soln.](../master/Questions_by_ID/574_Winning_Candidate.sql) |
