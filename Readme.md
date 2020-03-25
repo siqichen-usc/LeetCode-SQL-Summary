@@ -20,7 +20,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | Medium | [Soln.](../master/Basics/578_Get_Highest_Answer_Rate_Question.sql) | 
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [Soln.](../master/Basics/584_Find_Customer_Referee.sql) | 
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | [Soln.](../master/Basics/586_Customer_Placing_the_Largest_Number_of_Orders.sql) | 
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](../master/Basics/595_Big_Countries.sql) | 
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](../master/Basics/595_Big_Countries.sql) |
+| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](../master/Basics/596_Classes_More_Than_5_Students.sql) | 
 
 ### SQL Command
 
@@ -177,3 +178,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | [Soln.](../master/Questions_by_ID/585_Investments_in_2016.sql) | 
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | [Soln.](../master/Questions_by_ID/586_Customer_Placing_the_Largest_Number_of_Orders.sql) | 
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](../master/Questions_by_ID/595_Big_Countries.sql) | 
+| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](../master/Questions_by_ID/596_Classes_More_Than_5_Students.sql) | 
