@@ -122,6 +122,13 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | Hard | [Soln.](../master/Window-Function/579_Find_Cumulative_Salary_of_an_Employee.sql) | 
 
 
+### CASE WHEN
+
+| **#** | **Title** | **Difficulty** | **Solution** | 
+|---|---|---|---|
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/CASE-WHEN/262_Trips_and_Users.sql) |
+
+
 ### OFFSET FETCH
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
