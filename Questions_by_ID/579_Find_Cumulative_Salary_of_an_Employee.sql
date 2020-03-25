@@ -10,7 +10,7 @@ ORDER BY id, month DESC;
 
 
 
--- Solution: Join, Subquery
+-- Solution 2: Join, Subquery
 SELECT e1.id, e1.month, SUM(e2.salary) AS Salary
 FROM Employee e1
 JOIN Employee e2
