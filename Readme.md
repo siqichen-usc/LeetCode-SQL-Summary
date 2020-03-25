@@ -96,8 +96,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/550_Game_Play_Analysis_IV.sql) |
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/569_Median_Employee_Salary.sql) |
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/585_Investments_in_2016.sql) | 
-
-
+| 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/Subquery/Advanced-Subquery/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 
 
 -  Recursive CTE
@@ -133,6 +132,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/CASE-WHEN/262_Trips_and_Users.sql) |
+| 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/CASE-WHEN/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 
 
 ### OFFSET FETCH
@@ -142,6 +142,13 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../blob/master/OFFSET-FETCH/176_Second_Highest_Salary.sql) |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/OFFSET-FETCH/177_Nth_Highest_Salary.sql) |
 
+
+
+### Variable
+
+| **#** | **Title** | **Difficulty** | **Solution** | 
+|---|---|---|---|
+| 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/Variable/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 
 
 
@@ -179,3 +186,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | [Soln.](../master/Questions_by_ID/586_Customer_Placing_the_Largest_Number_of_Orders.sql) | 
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](../master/Questions_by_ID/595_Big_Countries.sql) | 
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](../master/Questions_by_ID/596_Classes_More_Than_5_Students.sql) | 
+| 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/Questions_by_ID/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
