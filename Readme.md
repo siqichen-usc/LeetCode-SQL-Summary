@@ -86,6 +86,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 574 | [Winning Candidate](https://leetcode.com/problems/winning-candidate/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/574_Winning_Candidate.sql) |
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/579_Find_Cumulative_Salary_of_an_Employee.sql) | 
 | 580 | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/580_Count_Student_Number_in_Departments.sql) | 
+| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium |  [Soln.](../master/Subquery/Simple-Subquery/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
 
 
 -  Advanced Subquery
@@ -144,6 +145,13 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 
 
+### PIVOT & UNPIVOT
+
+| **#** | **Title** | **Difficulty** | **Solution** | 
+|---|---|---|---|
+| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium |  [Soln.](../master/PIVOT-UNPIVOT/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
+
+
 ### Variable
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
@@ -188,3 +196,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](../master/Questions_by_ID/596_Classes_More_Than_5_Students.sql) | 
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/Questions_by_ID/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Questions_by_ID/601_Human_Traffic_of_Stadium.sql) | 
+| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium |  [Soln.](../master/Questions_by_ID/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
