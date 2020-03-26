@@ -63,7 +63,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Join/Advanced-Join/569_Median_Employee_Salary.sql) |
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | Hard | [Soln.](../master/Join/Advanced-Join/579_Find_Cumulative_Salary_of_an_Employee.sql) |
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Join/Advanced-Join/601_Human_Traffic_of_Stadium.sql) | 
-
+| 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Join/Advanced-Join/603_Consecutive_Available_Seats.sql) | 
 
 
 
@@ -87,7 +87,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/579_Find_Cumulative_Salary_of_an_Employee.sql) | 
 | 580 | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/580_Count_Student_Number_in_Departments.sql) | 
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium |  [Soln.](../master/Subquery/Simple-Subquery/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
-
+| 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/603_Consecutive_Available_Seats.sql) | 
 
 -  Advanced Subquery
 
@@ -127,6 +127,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | Hard | [Soln.](../master/Window-Function/579_Find_Cumulative_Salary_of_an_Employee.sql) | 
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | [Soln.](../master/Window-Function/585_Investments_in_2016.sql) | 
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Window-Function/601_Human_Traffic_of_Stadium.sql) | 
+| 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Window-Function/603_Consecutive_Available_Seats.sql) | 
 
 ### CASE WHEN
 
@@ -196,4 +197,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](../master/Questions_by_ID/596_Classes_More_Than_5_Students.sql) | 
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/Questions_by_ID/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Questions_by_ID/601_Human_Traffic_of_Stadium.sql) | 
-| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium |  [Soln.](../master/Questions_by_ID/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
+| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium | [Soln.](../master/Questions_by_ID/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
+| 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Questions_by_ID/603_Consecutive_Available_Seats.sql) | 
