@@ -64,6 +64,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 579 | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | Hard | [Soln.](../master/Join/Advanced-Join/579_Find_Cumulative_Salary_of_an_Employee.sql) |
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Join/Advanced-Join/601_Human_Traffic_of_Stadium.sql) | 
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Join/Advanced-Join/603_Consecutive_Available_Seats.sql) | 
+| 612 | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | Medium | [Soln.](../master/Join/Advanced-Join/612_Shortest_Distance_in_a_Plane.sql) | 
 
 
 
@@ -206,3 +207,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Soln.](../master/Questions_by_ID/607_Sales_Person.sql) | 
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | [Soln.](../master/Questions_by_ID/608_Tree_Node.sql) | 
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | [Soln.](../master/Questions_by_ID/610_Triangle_Judgement.sql) | 
+| 612 | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | Medium | [Soln.](../master/Questions_by_ID/612_Shortest_Distance_in_a_Plane.sql) | 
