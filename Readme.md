@@ -138,6 +138,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/CASE-WHEN/262_Trips_and_Users.sql) |
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/CASE-WHEN/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | [Soln.](../master/CASE-WHEN/608_Tree_Node.sql) | 
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | [Soln.](../master/CASE-WHEN/610_Triangle_Judgement.sql) | 
 
 
 ### OFFSET FETCH
@@ -204,3 +205,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Questions_by_ID/603_Consecutive_Available_Seats.sql) | 
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Soln.](../master/Questions_by_ID/607_Sales_Person.sql) | 
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | [Soln.](../master/Questions_by_ID/608_Tree_Node.sql) | 
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | [Soln.](../master/Questions_by_ID/610_Triangle_Judgement.sql) | 
