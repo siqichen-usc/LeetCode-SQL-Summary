@@ -29,17 +29,11 @@ WHERE free1 = 1 AND (free2 = 1 OR free0 = 1);
 
 
 
--- Soltuion 3: Join, Subquery
-WITH tb1 AS (
-    SELECT c2.seat_id, c1.free AS free0, c2.free AS free1, c3.free AS free2
-    FROM cinema c1
-    RIGHT JOIN cinema c2
-    ON c1.seat_id + 1 = c2.seat_id 
-    LEFT JOIN cinema c3
-    ON c2.seat_id + 1 = c3.seat_id
-)
-
-SELECT seat_id
-FROM tb1
-WHERE free1 = 1 AND (free2 = 1 OR free0 = 1);
-
+-- Soltuion 3: Join
+SELECT c2.seat_id
+FROM cinema c1
+RIGHT JOIN cinema c2
+ON c1.seat_id + 1 = c2.seat_id 
+LEFT JOIN cinema c3
+ON c2.seat_id + 1 = c3.seat_id
+WHERE c2.free = 1 AND (c1.free = 1 OR c3.free = 1);
