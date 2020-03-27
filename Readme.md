@@ -49,6 +49,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | [Soln.](../master/Join/Simple-Join/577_Employee_Bonus.sql) |
 | 580 | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/) | Medium | [Soln.](../master/Join/Simple-Join/580_Count_Student_Number_in_Departments.sql) | 
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Soln.](../master/Join/Simple-Join/607_Sales_Person.sql) | 
+| 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Join/Simple-Join/614_Second_Degree_Follower.sql) | 
+
 
 
 - Advanced Join 
@@ -65,7 +67,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Join/Advanced-Join/601_Human_Traffic_of_Stadium.sql) | 
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Join/Advanced-Join/603_Consecutive_Available_Seats.sql) | 
 | 612 | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | Medium | [Soln.](../master/Join/Advanced-Join/612_Shortest_Distance_in_a_Plane.sql) | 
-
+| 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Join/Advanced-Join/613_Shortest_Distance_in_a_Line.sql) | 
 
 
 
@@ -90,7 +92,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium |  [Soln.](../master/Subquery/Simple-Subquery/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/603_Consecutive_Available_Seats.sql) | 
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/607_Sales_Person.sql) | 
-
+| 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/613_Shortest_Distance_in_a_Line.sql) | 
+| 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/614_Second_Degree_Follower.sql) | 
 
 -  Advanced Subquery
 
@@ -131,6 +134,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | [Soln.](../master/Window-Function/585_Investments_in_2016.sql) | 
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Window-Function/601_Human_Traffic_of_Stadium.sql) | 
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Window-Function/603_Consecutive_Available_Seats.sql) | 
+| 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Window-Function/613_Shortest_Distance_in_a_Line.sql) | 
+
 
 ### CASE WHEN
 
@@ -208,3 +213,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | [Soln.](../master/Questions_by_ID/608_Tree_Node.sql) | 
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | [Soln.](../master/Questions_by_ID/610_Triangle_Judgement.sql) | 
 | 612 | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | Medium | [Soln.](../master/Questions_by_ID/612_Shortest_Distance_in_a_Plane.sql) | 
+| 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Questions_by_ID/613_Shortest_Distance_in_a_Line.sql) | 
+| 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Questions_by_ID/614_Second_Degree_Follower.sql) | 
