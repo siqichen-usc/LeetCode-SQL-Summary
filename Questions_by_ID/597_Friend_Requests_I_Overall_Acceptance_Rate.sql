@@ -36,7 +36,7 @@ SELECT
 
 
 
--- Solution 3: Variable, Subquery
+-- Solution 3: Variable, Subquery, IIF
 DECLARE @accept DECIMAL(10,2);
 DECLARE @send DECIMAL(10,2);
 
