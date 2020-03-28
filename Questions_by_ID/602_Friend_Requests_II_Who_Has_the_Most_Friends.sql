@@ -14,7 +14,7 @@ ORDER BY COUNT(*) DESC;
 
 
 
--- Solution 2: PIVOT-UNPIVOT
+-- Solution 2: PIVOT/UNPIVOT
 SELECT TOP 1 upvt.id, COUNT(*) AS num
 FROM request_accepted
 UNPIVOT (
