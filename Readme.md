@@ -96,7 +96,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/613_Shortest_Distance_in_a_Line.sql) | 
 | 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/614_Second_Degree_Follower.sql) | 
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/615_Average_Salary_Departments_VS_Company.sql) | 
- 
+ | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/618_Students_Report_By_Geography.sql) | 
  
 -  Advanced Subquery
 
@@ -139,9 +139,10 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Window-Function/603_Consecutive_Available_Seats.sql) | 
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Window-Function/613_Shortest_Distance_in_a_Line.sql) | 
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Window-Function/615_Average_Salary_Departments_VS_Company.sql) | 
+| 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/Window-Function/618_Students_Report_By_Geography.sql) | 
 
 
-### CASE WHEN
+### CASE WHEN (or IIF)
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
@@ -150,6 +151,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | [Soln.](../master/CASE-WHEN/608_Tree_Node.sql) | 
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | [Soln.](../master/CASE-WHEN/610_Triangle_Judgement.sql) | 
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/CASE-WHEN/615_Average_Salary_Departments_VS_Company.sql) | 
+| 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/CASE-WHEN/618_Students_Report_By_Geography.sql) | 
 
 ### OFFSET FETCH
 
@@ -165,7 +167,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium |  [Soln.](../master/PIVOT-UNPIVOT/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
-
+| 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/PIVOT-UNPIVOT/618_Students_Report_By_Geography.sql) | 
 
 ### Variable
 
@@ -220,3 +222,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Questions_by_ID/613_Shortest_Distance_in_a_Line.sql) | 
 | 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Questions_by_ID/614_Second_Degree_Follower.sql) | 
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Questions_by_ID/615_Average_Salary_Departments_VS_Company.sql) | 
+| 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/Questions_by_ID/618_Students_Report_By_Geography.sql) | 
