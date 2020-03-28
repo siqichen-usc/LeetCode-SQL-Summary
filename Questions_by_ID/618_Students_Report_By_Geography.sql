@@ -23,4 +23,4 @@ WITH tb1 AS (
 
 SELECT MIN(America) AS America, MIN(Asia) AS Asia, MIN(Europe) AS Europe
 FROM tb1
-GROUP BY r
+GROUP BY r;
