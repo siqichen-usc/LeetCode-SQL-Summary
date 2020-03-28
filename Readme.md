@@ -50,6 +50,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 580 | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/) | Medium | [Soln.](../master/Join/Simple-Join/580_Count_Student_Number_in_Departments.sql) | 
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Soln.](../master/Join/Simple-Join/607_Sales_Person.sql) | 
 | 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Join/Simple-Join/614_Second_Degree_Follower.sql) | 
+| 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Join/Simple-Join/615_Average_Salary_Departments_VS_Company.sql) | 
 
 
 
@@ -94,7 +95,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/607_Sales_Person.sql) | 
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/613_Shortest_Distance_in_a_Line.sql) | 
 | 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/614_Second_Degree_Follower.sql) | 
-
+| 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/615_Average_Salary_Departments_VS_Company.sql) | 
+ 
+ 
 -  Advanced Subquery
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
@@ -135,6 +138,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Window-Function/601_Human_Traffic_of_Stadium.sql) | 
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Window-Function/603_Consecutive_Available_Seats.sql) | 
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Window-Function/613_Shortest_Distance_in_a_Line.sql) | 
+| 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Window-Function/615_Average_Salary_Departments_VS_Company.sql) | 
 
 
 ### CASE WHEN
@@ -145,7 +149,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/CASE-WHEN/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | [Soln.](../master/CASE-WHEN/608_Tree_Node.sql) | 
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | [Soln.](../master/CASE-WHEN/610_Triangle_Judgement.sql) | 
-
+| 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/CASE-WHEN/615_Average_Salary_Departments_VS_Company.sql) | 
 
 ### OFFSET FETCH
 
@@ -215,3 +219,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 612 | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | Medium | [Soln.](../master/Questions_by_ID/612_Shortest_Distance_in_a_Plane.sql) | 
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Questions_by_ID/613_Shortest_Distance_in_a_Line.sql) | 
 | 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Questions_by_ID/614_Second_Degree_Follower.sql) | 
+| 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Questions_by_ID/615_Average_Salary_Departments_VS_Company.sql) | 
