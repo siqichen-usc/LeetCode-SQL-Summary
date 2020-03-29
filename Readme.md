@@ -30,6 +30,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/SQL-Command/196_Delete_Duplicate_Emails.sql) |
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Soln.](../master/SQL-Command/627_Swap_Salary.sql) | 
 
 ### Join
 
@@ -157,7 +158,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/CASE-WHEN/615_Average_Salary_Departments_VS_Company.sql) | 
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/CASE-WHEN/618_Students_Report_By_Geography.sql) | 
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/CASE-WHEN/626_Exchange_Seats.sql) | 
-
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Soln.](../master/CASE-WHEN/627_Swap_Salary.sql) | 
 
 
 ### OFFSET FETCH
@@ -233,3 +234,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | [Soln.](../master/Questions_by_ID/619_Biggest_Single_Number.sql) | 
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [Soln.](../master/Questions_by_ID/620_Not_Boring_Movies.sql) | 
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/Questions_by_ID/626_Exchange_Seats.sql) | 
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Soln.](../master/Questions_by_ID/627_Swap_Salary.sql) | 
