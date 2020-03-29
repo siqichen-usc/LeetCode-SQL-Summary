@@ -23,6 +23,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](../master/Basics/595_Big_Countries.sql) |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](../master/Basics/596_Classes_More_Than_5_Students.sql) | 
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | [Soln.](../master/Basics/619_Biggest_Single_Number.sql) | 
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [Soln.](../master/Basics/620_Not_Boring_Movies.sql) | 
 
 ### SQL Command
 
@@ -97,7 +98,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/613_Shortest_Distance_in_a_Line.sql) | 
 | 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/614_Second_Degree_Follower.sql) | 
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/615_Average_Salary_Departments_VS_Company.sql) | 
- | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/618_Students_Report_By_Geography.sql) | 
+| 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/618_Students_Report_By_Geography.sql) | 
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/626_Exchange_Seats.sql) | 
+
  
 -  Advanced Subquery
 
@@ -153,6 +156,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | Easy | [Soln.](../master/CASE-WHEN/610_Triangle_Judgement.sql) | 
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/CASE-WHEN/615_Average_Salary_Departments_VS_Company.sql) | 
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/CASE-WHEN/618_Students_Report_By_Geography.sql) | 
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/CASE-WHEN/626_Exchange_Seats.sql) | 
+
+
 
 ### OFFSET FETCH
 
@@ -225,3 +231,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Questions_by_ID/615_Average_Salary_Departments_VS_Company.sql) | 
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/Questions_by_ID/618_Students_Report_By_Geography.sql) | 
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | [Soln.](../master/Questions_by_ID/619_Biggest_Single_Number.sql) | 
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [Soln.](../master/Questions_by_ID/620_Not_Boring_Movies.sql) | 
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/Questions_by_ID/626_Exchange_Seats.sql) | 
