@@ -25,6 +25,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | [Soln.](../master/Basics/619_Biggest_Single_Number.sql) | 
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [Soln.](../master/Basics/620_Not_Boring_Movies.sql) | 
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | [Soln.](../master/Basics/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) | 
+| 1069 | [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/) | Easy | [Soln.](../master/Basics/1069_Product_Sales_Analysis_II.sql) | 
+
+
 
 ### SQL Command
 
@@ -55,6 +58,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | Easy | [Soln.](../master/Join/Simple-Join/607_Sales_Person.sql) | 
 | 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Join/Simple-Join/614_Second_Degree_Follower.sql) | 
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Join/Simple-Join/615_Average_Salary_Departments_VS_Company.sql) | 
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | [Soln.](../master/Join/Simple-Join/1068_Product_Sales_Analysis_I.sql) | 
 
 
 
@@ -239,3 +243,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy | [Soln.](../master/Questions_by_ID/627_Swap_Salary.sql) | 
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | [Soln.](../master/Questions_by_ID/1045_Customers_Who_Bought_All_Products.sql) | 
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | [Soln.](../master/Questions_by_ID/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) | 
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | [Soln.](../master/Questions_by_ID/1068_Product_Sales_Analysis_I.sql) | 
+| 1069 | [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/) | Easy | [Soln.](../master/Questions_by_ID/1069_Product_Sales_Analysis_II.sql) | 
