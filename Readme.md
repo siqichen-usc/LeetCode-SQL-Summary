@@ -101,6 +101,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/615_Average_Salary_Departments_VS_Company.sql) | 
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/618_Students_Report_By_Geography.sql) | 
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/626_Exchange_Seats.sql) | 
+| 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1045_Customers_Who_Bought_All_Products.sql) | 
 
  
 -  Advanced Subquery
@@ -234,4 +235,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | [Soln.](../master/Questions_by_ID/619_Biggest_Single_Number.sql) | 
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [Soln.](../master/Questions_by_ID/620_Not_Boring_Movies.sql) | 
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/Questions_by_ID/626_Exchange_Seats.sql) | 
-| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Soln.](../master/Questions_by_ID/627_Swap_Salary.sql) | 
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy | [Soln.](../master/Questions_by_ID/627_Swap_Salary.sql) | 
+| 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | [Soln.](../master/Questions_by_ID/1045_Customers_Who_Bought_All_Products.sql) | 
