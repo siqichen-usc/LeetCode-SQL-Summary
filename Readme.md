@@ -24,6 +24,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](../master/Basics/596_Classes_More_Than_5_Students.sql) | 
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | [Soln.](../master/Basics/619_Biggest_Single_Number.sql) | 
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [Soln.](../master/Basics/620_Not_Boring_Movies.sql) | 
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | [Soln.](../master/Basics/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) | 
 
 ### SQL Command
 
@@ -237,3 +238,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/Questions_by_ID/626_Exchange_Seats.sql) | 
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy | [Soln.](../master/Questions_by_ID/627_Swap_Salary.sql) | 
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | [Soln.](../master/Questions_by_ID/1045_Customers_Who_Bought_All_Products.sql) | 
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | [Soln.](../master/Questions_by_ID/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) | 
