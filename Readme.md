@@ -59,7 +59,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 614 | [Second Degree Follower](https://leetcode.com/problems/second-degree-follower/) | Medium | [Soln.](../master/Join/Simple-Join/614_Second_Degree_Follower.sql) | 
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Join/Simple-Join/615_Average_Salary_Departments_VS_Company.sql) | 
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | [Soln.](../master/Join/Simple-Join/1068_Product_Sales_Analysis_I.sql) | 
-
+| 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Medium | [Soln.](../master/Join/Simple-Join/1070_Product_Sales_Analysis_III.sql) | 
 
 
 - Advanced Join 
@@ -107,7 +107,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/618_Students_Report_By_Geography.sql) | 
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/626_Exchange_Seats.sql) | 
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1045_Customers_Who_Bought_All_Products.sql) | 
-
+| 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1070_Product_Sales_Analysis_III.sql) | 
  
 -  Advanced Subquery
 
@@ -151,7 +151,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Window-Function/613_Shortest_Distance_in_a_Line.sql) | 
 | 615 | [Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/) | Hard | [Soln.](../master/Window-Function/615_Average_Salary_Departments_VS_Company.sql) | 
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/Window-Function/618_Students_Report_By_Geography.sql) | 
-
+| 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Medium | [Soln.](../master/Window-Function/1070_Product_Sales_Analysis_III.sql) | 
 
 ### CASE WHEN (or IIF)
 
@@ -245,3 +245,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | [Soln.](../master/Questions_by_ID/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) | 
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | Easy | [Soln.](../master/Questions_by_ID/1068_Product_Sales_Analysis_I.sql) | 
 | 1069 | [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/) | Easy | [Soln.](../master/Questions_by_ID/1069_Product_Sales_Analysis_II.sql) | 
+| 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Medium | [Soln.](../master/Questions_by_ID/1070_Product_Sales_Analysis_III.sql) | 
