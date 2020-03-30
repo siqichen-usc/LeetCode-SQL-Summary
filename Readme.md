@@ -80,7 +80,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/) | Easy | [Soln.](../master/Join/Advanced-Join/603_Consecutive_Available_Seats.sql) | 
 | 612 | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | Medium | [Soln.](../master/Join/Advanced-Join/612_Shortest_Distance_in_a_Plane.sql) | 
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Join/Advanced-Join/613_Shortest_Distance_in_a_Line.sql) | 
-
+| 1097 | [Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/) | Hard | [Soln.](../master/Join/Advanced-Join/1097_Game_Play_Analysis_V.sql) | 
 
 
 ### Subquery
@@ -113,6 +113,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1070_Product_Sales_Analysis_III.sql) | 
 | 1083 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-ii/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1083_Sales_Analysis_II.sql) | 
 | 1084 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-iii/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1084_Sales_Analysis_III.sql) | 
+| 1097 | [Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/1097_Game_Play_Analysis_V.sql) | 
  
 -  Advanced Subquery
 
@@ -260,3 +261,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/) | Easy | [Soln.](../master/Questions_by_ID/1082_Sales_Analysis_I.sql) | 
 | 1083 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-ii/) | Easy | [Soln.](../master/Questions_by_ID/1083_Sales_Analysis_II.sql) | 
 | 1084 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-iii/) | Easy | [Soln.](../master/Questions_by_ID/1084_Sales_Analysis_III.sql) | 
+| 1084 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-iii/) | Easy | [Soln.](../master/Questions_by_ID/1084_Sales_Analysis_III.sql) | 
+| 1097 | [Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/) | Hard | [Soln.](../master/Questions_by_ID/1097_Game_Play_Analysis_V.sql) | 
