@@ -1,4 +1,4 @@
--- Solution: Join, Window Function, Subquery
+-- Solution 1: Join, Window Function, Subquery
 SELECT project_id, employee_id
 FROM (
     SELECT p.project_id, p.employee_id,
@@ -11,7 +11,7 @@ WHERE r = 1;
 
 
 
--- Solution: Join, Subquery
+-- Solution 2: Join, Subquery
 WITH tb1 AS (
     SELECT p.project_id, p.employee_id, e.experience_years
     FROM Project p
