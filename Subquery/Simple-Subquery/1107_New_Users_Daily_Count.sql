@@ -1,3 +1,5 @@
+-- You could update the variable to any date you want or GETDATE(), and then same analysis will be done for the new date 
+
 -- Solution 1: Subquery, Variable
 DECLARE @d date;
 SET @d = DATEADD(DAY,-90, '2019-06-30');
