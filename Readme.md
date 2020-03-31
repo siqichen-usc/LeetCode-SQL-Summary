@@ -64,7 +64,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1077 | [Project Employees II](https://leetcode.com/problems/project-employees-iii/) | Medium | [Soln.](../master/Join/Simple-Join/1077_Project_Employees_III.sql) | 
 | 1083 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-ii/) | Easy | [Soln.](../master/Join/Simple-Join/1083_Sales_Analysis_II.sql) | 
 | 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Join/Simple-Join/1112_Highest_Grade_For_Each_Student.sql) | 
-
+| 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | Medium | [Soln.](../master/Join/Simple-Join/1132_Reported_Posts_II.sql) | 
 
 
 
@@ -85,7 +85,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Join/Advanced-Join/613_Shortest_Distance_in_a_Line.sql) | 
 | 1097 | [Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/) | Hard | [Soln.](../master/Join/Advanced-Join/1097_Game_Play_Analysis_V.sql) | 
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Join/Advanced-Join/1126_Active_Businesses.sql) | 
- 
+ | 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Join/Advanced-Join/1127_User_Purchase_Platform.sql) | 
 
 
 
@@ -124,7 +124,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
  | 1107 | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1107_New_Users_Daily_Count.sql) | 
 | 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1112_Highest_Grade_For_Each_Student.sql) | 
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1126_Active_Businesses.sql) | 
- 
+| 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1132_Reported_Posts_II.sql) | 
  
  
 -  Advanced Subquery
@@ -138,6 +138,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/Subquery/Advanced-Subquery/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/601_Human_Traffic_of_Stadium.sql) | 
 | 1077 | [Project Employees II](https://leetcode.com/problems/project-employees-iii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1077_Project_Employees_III.sql) | 
+| 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/1127_User_Purchase_Platform.sql) | 
 
 -  Recursive CTE
 
@@ -175,6 +176,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1107 | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | Medium | [Soln.](../master/Window-Function/1107_New_Users_Daily_Count.sql) | 
 | 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Window-Function/1112_Highest_Grade_For_Each_Student.sql) | 
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Window-Function/1126_Active_Businesses.sql) | 
+| 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Window-Function/1127_User_Purchase_Platform.sql) | 
 
 
 ### CASE WHEN (or IIF)
@@ -285,3 +287,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Questions_by_ID/1112_Highest_Grade_For_Each_Student.sql) | 
 | 1113 | [Reported Posts](https://leetcode.com/problems/reported-posts/) | Easy | [Soln.](../master/Questions_by_ID/1113_Reported_Posts.sql) | 
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Questions_by_ID/1126_Active_Businesses.sql) | 
+| 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Questions_by_ID/1127_User_Purchase_Platform.sql) | 
+| 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | Medium | [Soln.](../master/Questions_by_ID/1132_Reported_Posts_II.sql) | 
