@@ -63,10 +63,13 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | Easy | [Soln.](../master/Join/Simple-Join/1075_Project_Employees_I.sql) | 
 | 1077 | [Project Employees II](https://leetcode.com/problems/project-employees-iii/) | Medium | [Soln.](../master/Join/Simple-Join/1077_Project_Employees_III.sql) | 
 | 1083 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-ii/) | Easy | [Soln.](../master/Join/Simple-Join/1083_Sales_Analysis_II.sql) | 
+| 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Join/Simple-Join/1112_Highest_Grade_For_Each_Student.sql) | 
+
+
+
 
 
 - Advanced Join 
-
 
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
@@ -81,6 +84,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 612 | [Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/) | Medium | [Soln.](../master/Join/Advanced-Join/612_Shortest_Distance_in_a_Plane.sql) | 
 | 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/) | Easy | [Soln.](../master/Join/Advanced-Join/613_Shortest_Distance_in_a_Line.sql) | 
 | 1097 | [Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/) | Hard | [Soln.](../master/Join/Advanced-Join/1097_Game_Play_Analysis_V.sql) | 
+| 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Join/Advanced-Join/1126_Active_Businesses.sql) | 
+ 
+
 
 
 ### Subquery
@@ -114,6 +120,12 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1083 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-ii/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1083_Sales_Analysis_II.sql) | 
 | 1084 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-iii/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1084_Sales_Analysis_III.sql) | 
 | 1097 | [Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/1097_Game_Play_Analysis_V.sql) | 
+ | 1098 | [Unpopular Books](https://leetcode.com/problems/unpopular-books/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1098_Unpopular_Books.sql) | 
+ | 1107 | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1107_New_Users_Daily_Count.sql) | 
+| 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1112_Highest_Grade_For_Each_Student.sql) | 
+| 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1126_Active_Businesses.sql) | 
+ 
+ 
  
 -  Advanced Subquery
 
@@ -160,6 +172,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/Window-Function/618_Students_Report_By_Geography.sql) | 
 | 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Medium | [Soln.](../master/Window-Function/1070_Product_Sales_Analysis_III.sql) | 
 | 1077 | [Project Employees II](https://leetcode.com/problems/project-employees-iii/) | Medium | [Soln.](../master/Window-Function/1077_Project_Employees_III.sql) | 
+| 1107 | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | Medium | [Soln.](../master/Window-Function/1107_New_Users_Daily_Count.sql) | 
+| 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Window-Function/1112_Highest_Grade_For_Each_Student.sql) | 
+| 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Window-Function/1126_Active_Businesses.sql) | 
 
 
 ### CASE WHEN (or IIF)
@@ -174,7 +189,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/CASE-WHEN/618_Students_Report_By_Geography.sql) | 
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/CASE-WHEN/626_Exchange_Seats.sql) | 
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Soln.](../master/CASE-WHEN/627_Swap_Salary.sql) | 
-
+| 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/CASE-WHEN/1126_Active_Businesses.sql) | 
 
 ### OFFSET FETCH
 
@@ -197,7 +212,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/Variable/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
-
+| 1098 | [Unpopular Books](https://leetcode.com/problems/unpopular-books/) | Medium | [Soln.](../master/Variable/1098_Unpopular_Books.sql) | 
+| 1107 | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | Medium | [Soln.](../master/Variable/1107_New_Users_Daily_Count.sql) | 
+| 1113 | [Reported Posts](https://leetcode.com/problems/reported-posts/) | Easy | [Soln.](../master/Variable/1113_Reported_Posts.sql) | 
 
 
 ## LeetCode SQL Questions by ID
@@ -263,3 +280,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1084 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-iii/) | Easy | [Soln.](../master/Questions_by_ID/1084_Sales_Analysis_III.sql) | 
 | 1084 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-iii/) | Easy | [Soln.](../master/Questions_by_ID/1084_Sales_Analysis_III.sql) | 
 | 1097 | [Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/) | Hard | [Soln.](../master/Questions_by_ID/1097_Game_Play_Analysis_V.sql) | 
+| 1098 | [Unpopular Books](https://leetcode.com/problems/unpopular-books/) | Medium | [Soln.](../master/Questions_by_ID/1098_Unpopular_Books.sql) | 
+| 1107 | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | Medium | [Soln.](../master/Questions_by_ID/1107_New_Users_Daily_Count.sql) | 
+| 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Questions_by_ID/1112_Highest_Grade_For_Each_Student.sql) | 
+| 1113 | [Reported Posts](https://leetcode.com/problems/reported-posts/) | Easy | [Soln.](../master/Questions_by_ID/1113_Reported_Posts.sql) | 
+| 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Questions_by_ID/1126_Active_Businesses.sql) | 
