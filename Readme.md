@@ -28,6 +28,11 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1069 | [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/) | Easy | [Soln.](../master/Basics/1069_Product_Sales_Analysis_II.sql) | 
 | 1076 | [Project Employees II](https://leetcode.com/problems/project-employees-ii/) | Easy | [Soln.](../master/Basics/1076_Project_Employees_II.sql) | 
 | 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/) | Easy | [Soln.](../master/Basics/1082_Sales_Analysis_I.sql) | 
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Soln.](../master/Basics/1141_User_Activity_for_the_Past_30_Days_I.sql) | 
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Soln.](../master/Basics/1148_Article_Views_I.sql) | 
+| 1149 | [Article Views I](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](../master/Basics/1149_Article_Views_II.sql) | 
+
+
 
 ### SQL Command
 
@@ -125,7 +130,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1112_Highest_Grade_For_Each_Student.sql) | 
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1126_Active_Businesses.sql) | 
 | 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1132_Reported_Posts_II.sql) | 
- 
+| 1142 | [User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1142_User_Activity_for_the_Past_30_Days_II.sql) | 
  
 -  Advanced Subquery
 
@@ -192,6 +197,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | [Soln.](../master/CASE-WHEN/626_Exchange_Seats.sql) | 
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Soln.](../master/CASE-WHEN/627_Swap_Salary.sql) | 
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/CASE-WHEN/1126_Active_Businesses.sql) | 
+| 1142 | [User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/) | Easy | [Soln.](../master/CASE-WHEN/1142_User_Activity_for_the_Past_30_Days_II.sql) | 
 
 ### OFFSET FETCH
 
@@ -289,3 +295,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Questions_by_ID/1126_Active_Businesses.sql) | 
 | 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Questions_by_ID/1127_User_Purchase_Platform.sql) | 
 | 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | Medium | [Soln.](../master/Questions_by_ID/1132_Reported_Posts_II.sql) | 
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Soln.](../master/Questions_by_ID/1141_User_Activity_for_the_Past_30_Days_I.sql) | 
+| 1142 | [User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/) | Easy | [Soln.](../master/Questions_by_ID/1142_User_Activity_for_the_Past_30_Days_II.sql) | 
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Soln.](../master/Questions_by_ID/1148_Article_Views_I.sql) | 
+| 1149 | [Article Views I](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](../master/Questions_by_ID/1149_Article_Views_II.sql) | 
+
