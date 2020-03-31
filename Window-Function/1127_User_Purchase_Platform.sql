@@ -31,4 +31,4 @@ SELECT d.spend_date, p.platform,
 FROM d
 CROSS JOIN p
 LEFT JOIN tb2
-ON d.spend_date = tb2.spend_date and p.platform = tb2.platform
+ON d.spend_date = tb2.spend_date and p.platform = tb2.platform;
