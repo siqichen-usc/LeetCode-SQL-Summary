@@ -14,16 +14,18 @@ WHERE available_from <= '2019-05-23'
 
 -- Solution 2: Subquery 
 -- Solution 2 is better in sense of automation. 
--- You could change date to anydate you want or TODAY(), and same analysis could be done with out repetitive work
--- Also, you can store the date into a variable. Then, to generate a new analyis, the only thing needed is to update varialbe.
+-- You could update the varialbe to any date you want or TODAY(), and then the same analysis will be done for the new date 
+
+DECLARE @d date;
+SET @d = '2019-06-23';
 
 SELECT book_id, name
 FROM Books
-WHERE available_from <= DATEADD(month, -1, '2019-06-23')
+WHERE available_from <= DATEADD(month, -1, @d)
     AND book_id NOT IN (
         SELECT book_id
         FROM Orders
-        WHERE dispatch_date > DATEADD(year, -1, '2019-06-23')
+        WHERE dispatch_date > DATEADD(year, -1, @d)
         GROUP BY book_id
         HAVING SUM(quantity) >= 10 
     );
