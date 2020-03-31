@@ -1,3 +1,5 @@
+-- You could update the variable to any date you want or GETDATE(), and then same analysis will be done for the new date 
+
 -- Using ROW_NUMBER() instead of RANK() or DENSE_RANK() 
 -- to avoid return several rows when user login more than once at the first date
 
