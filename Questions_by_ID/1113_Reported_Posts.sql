@@ -1,3 +1,5 @@
+-- You could update the variable to any date you want or GETDATE(), and then same analysis will be done for the new date 
+
 -- Solution: Variable
 DECLARE @d date;
 SET @d = DATEADD(day,-1,'2019-07-05');
