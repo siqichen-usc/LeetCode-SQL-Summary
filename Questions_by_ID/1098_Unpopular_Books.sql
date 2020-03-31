@@ -13,7 +13,7 @@ WHERE available_from <= '2019-05-23'
   
 
 -- Solution 2: Subquery 
--- Solution 2 is better in sense of automation. 
+-- Solution 2 is better in terms of automation. 
 -- You could update the varialbe to any date you want or TODAY(), and then the same analysis will be done for the new date 
 
 DECLARE @d date;
