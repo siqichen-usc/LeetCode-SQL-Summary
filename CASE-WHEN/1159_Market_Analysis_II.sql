@@ -1,4 +1,4 @@
--- Solution: Window Function, Subquery, Join, CASE WHEN
+-- Solution 1: Window Function, Subquery, Join, CASE WHEN
 WITH tb1 AS (
     SELECT seller_id, item_id
     FROM (
