@@ -72,7 +72,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | Medium | [Soln.](../master/Join/Simple-Join/1132_Reported_Posts_II.sql) | 
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | [Soln.](../master/Join/Simple-Join/1158_Market_Analysis_I.sql) | 
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | [Soln.](../master/Join/Simple-Join/1164_Product_Price_at_a_Given_Date.sql) | 
-
+| 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | Medium | [Soln.](../master/Join/Simple-Join/1204_Last_Person_to_Fit_in_the_Elevator.sql) | 
+| 1205 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Join/Simple-Join/1205_Monthly_Transactions_II.sql) | 
 
 - Advanced Join 
 
@@ -92,6 +93,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Join/Advanced-Join/1126_Active_Businesses.sql) | 
  | 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Join/Advanced-Join/1127_User_Purchase_Platform.sql) | 
 | 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/Join/Advanced-Join/1159_Market_Analysis_II.sql) | 
+| 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/Join/Advanced-Join/1194_Tournament_Winners.sql) | 
 
 
 ### Subquery
@@ -133,7 +135,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1142 | [User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1142_User_Activity_for_the_Past_30_Days_II.sql) | 
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1158_Market_Analysis_I.sql) | 
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1174_Immediate_Food_Delivery_II.sql) | 
-
+| 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1204_Last_Person_to_Fit_in_the_Elevator.sql) | 
 
 -  Advanced Subquery
 
@@ -149,6 +151,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/1127_User_Purchase_Platform.sql) | 
 | 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1159_Market_Analysis_II.sql) | 
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1164_Product_Price_at_a_Given_Date.sql) | 
+| 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/1194_Tournament_Winners.sql) | 
+| 1205 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1205_Monthly_Transactions_II.sql) | 
 
 -  Recursive CTE
 
@@ -190,6 +194,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/Window-Function/1159_Market_Analysis_II.sql) | 
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | [Soln.](../master/Window-Function/1164_Product_Price_at_a_Given_Date.sql) | 
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/Window-Function/1174_Immediate_Food_Delivery_II.sql) | 
+| 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/Window-Function/1194_Tournament_Winners.sql) | 
+| 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | Medium | [Soln.](../master/Window-Function/1204_Last_Person_to_Fit_in_the_Elevator.sql) | 
 
 ### CASE WHEN (or IIF)
 
@@ -209,7 +215,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/CASE-WHEN/1159_Market_Analysis_II.sql) | 
 | 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/) | Easy | [Soln.](../master/CASE-WHEN/1173_Immediate_Food_Delivery_I.sql) | 
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/CASE-WHEN/1174_Immediate_Food_Delivery_II.sql) | 
-
+| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | Medium | [Soln.](../master/CASE-WHEN/1193_Monthly_Transactions_I.sql) | 
+| 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/CASE-WHEN/1194_Tournament_Winners.sql) | 
 
 
 ### OFFSET FETCH
@@ -227,6 +234,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 |---|---|---|---|
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium |  [Soln.](../master/PIVOT-UNPIVOT/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/PIVOT-UNPIVOT/618_Students_Report_By_Geography.sql) | 
+| 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy | [Soln.](../master/PIVOT-UNPIVOT/1179_Reformat_Department_Table.sql) | 
 
 ### Variable
 
@@ -317,3 +325,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | [Soln.](../master/Questions_by_ID/1164_Product_Price_at_a_Given_Date.sql) | 
 | 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/) | Easy | [Soln.](../master/Questions_by_ID/1173_Immediate_Food_Delivery_I.sql) | 
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/Questions_by_ID/1174_Immediate_Food_Delivery_II.sql) | 
+| 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy | [Soln.](../master/Questions_by_ID/1179_Reformat_Department_Table.sql) | 
+| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | Medium | [Soln.](../master/Questions_by_ID/1193_Monthly_Transactions_I.sql) | 
+| 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/Questions_by_ID/1194_Tournament_Winners.sql) | 
+| 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | Medium | [Soln.](../master/Questions_by_ID/1204_Last_Person_to_Fit_in_the_Elevator.sql) | 
+| 1205 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Questions_by_ID/1205_Monthly_Transactions_II.sql) | 
