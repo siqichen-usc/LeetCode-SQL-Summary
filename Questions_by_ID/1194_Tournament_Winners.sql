@@ -45,7 +45,7 @@ FROM (
         ROW_NUMBER() OVER (PARTITION BY group_id ORDER BY tp DESC, player_id) AS r
     FROM tb1
 ) tb2
-WHERE r = 1
+WHERE r = 1;
 
 
 
