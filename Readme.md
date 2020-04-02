@@ -30,7 +30,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/) | Easy | [Soln.](../master/Basics/1082_Sales_Analysis_I.sql) | 
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Soln.](../master/Basics/1141_User_Activity_for_the_Past_30_Days_I.sql) | 
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Soln.](../master/Basics/1148_Article_Views_I.sql) | 
-| 1149 | [Article Views I](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](../master/Basics/1149_Article_Views_II.sql) | 
+| 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](../master/Basics/1149_Article_Views_II.sql) | 
 
 
 
@@ -70,8 +70,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1083 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-ii/) | Easy | [Soln.](../master/Join/Simple-Join/1083_Sales_Analysis_II.sql) | 
 | 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Join/Simple-Join/1112_Highest_Grade_For_Each_Student.sql) | 
 | 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | Medium | [Soln.](../master/Join/Simple-Join/1132_Reported_Posts_II.sql) | 
-
-
+| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | [Soln.](../master/Join/Simple-Join/1158_Market_Analysis_I.sql) | 
+| 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | [Soln.](../master/Join/Simple-Join/1164_Product_Price_at_a_Given_Date.sql) | 
 
 
 - Advanced Join 
@@ -91,7 +91,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1097 | [Game Play Analysis V](https://leetcode.com/problems/game-play-analysis-v/) | Hard | [Soln.](../master/Join/Advanced-Join/1097_Game_Play_Analysis_V.sql) | 
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Join/Advanced-Join/1126_Active_Businesses.sql) | 
  | 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Join/Advanced-Join/1127_User_Purchase_Platform.sql) | 
-
+| 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/Join/Advanced-Join/1159_Market_Analysis_II.sql) | 
 
 
 ### Subquery
@@ -131,7 +131,10 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1126_Active_Businesses.sql) | 
 | 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1132_Reported_Posts_II.sql) | 
 | 1142 | [User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1142_User_Activity_for_the_Past_30_Days_II.sql) | 
- 
+| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1158_Market_Analysis_I.sql) | 
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1174_Immediate_Food_Delivery_II.sql) | 
+
+
 -  Advanced Subquery
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
@@ -144,6 +147,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/601_Human_Traffic_of_Stadium.sql) | 
 | 1077 | [Project Employees II](https://leetcode.com/problems/project-employees-iii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1077_Project_Employees_III.sql) | 
 | 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/1127_User_Purchase_Platform.sql) | 
+| 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1159_Market_Analysis_II.sql) | 
+| 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1164_Product_Price_at_a_Given_Date.sql) | 
 
 -  Recursive CTE
 
@@ -182,7 +187,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1112 | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student/) | Medium | [Soln.](../master/Window-Function/1112_Highest_Grade_For_Each_Student.sql) | 
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/Window-Function/1126_Active_Businesses.sql) | 
 | 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Window-Function/1127_User_Purchase_Platform.sql) | 
-
+| 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/Window-Function/1159_Market_Analysis_II.sql) | 
+| 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | [Soln.](../master/Window-Function/1164_Product_Price_at_a_Given_Date.sql) | 
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/Window-Function/1174_Immediate_Food_Delivery_II.sql) | 
 
 ### CASE WHEN (or IIF)
 
@@ -198,6 +205,12 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Soln.](../master/CASE-WHEN/627_Swap_Salary.sql) | 
 | 1126 | [Active Businesses](https://leetcode.com/problems/active-businesses/) | Medium | [Soln.](../master/CASE-WHEN/1126_Active_Businesses.sql) | 
 | 1142 | [User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/) | Easy | [Soln.](../master/CASE-WHEN/1142_User_Activity_for_the_Past_30_Days_II.sql) | 
+| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | [Soln.](../master/CASE-WHEN/1158_Market_Analysis_I.sql) | 
+| 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/CASE-WHEN/1159_Market_Analysis_II.sql) | 
+| 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/) | Easy | [Soln.](../master/CASE-WHEN/1173_Immediate_Food_Delivery_I.sql) | 
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/CASE-WHEN/1174_Immediate_Food_Delivery_II.sql) | 
+
+
 
 ### OFFSET FETCH
 
@@ -298,5 +311,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Soln.](../master/Questions_by_ID/1141_User_Activity_for_the_Past_30_Days_I.sql) | 
 | 1142 | [User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/) | Easy | [Soln.](../master/Questions_by_ID/1142_User_Activity_for_the_Past_30_Days_II.sql) | 
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Soln.](../master/Questions_by_ID/1148_Article_Views_I.sql) | 
-| 1149 | [Article Views I](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](../master/Questions_by_ID/1149_Article_Views_II.sql) | 
-
+| 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](../master/Questions_by_ID/1149_Article_Views_II.sql) | 
+| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | [Soln.](../master/Questions_by_ID/1158_Market_Analysis_I.sql) | 
+| 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/Questions_by_ID/1159_Market_Analysis_II.sql) | 
+| 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | [Soln.](../master/Questions_by_ID/1164_Product_Price_at_a_Given_Date.sql) | 
+| 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/) | Easy | [Soln.](../master/Questions_by_ID/1173_Immediate_Food_Delivery_I.sql) | 
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/Questions_by_ID/1174_Immediate_Food_Delivery_II.sql) | 
