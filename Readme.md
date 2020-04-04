@@ -73,7 +73,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | [Soln.](../master/Join/Simple-Join/1158_Market_Analysis_I.sql) | 
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | [Soln.](../master/Join/Simple-Join/1164_Product_Price_at_a_Given_Date.sql) | 
 | 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | Medium | [Soln.](../master/Join/Simple-Join/1204_Last_Person_to_Fit_in_the_Elevator.sql) | 
-| 1205 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Join/Simple-Join/1205_Monthly_Transactions_II.sql) | 
+| 1205 | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Join/Simple-Join/1205_Monthly_Transactions_II.sql) | 
+| 1241 | [Number of Comments per Post](https://leetcode.com/problems/number-of-comments-per-post/) | Easy | [Soln.](../master/Join/Simple-Join/1241_Number_of_Comments_per_Post.sql) | 
 
 - Advanced Join 
 
@@ -94,7 +95,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
  | 1127 | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform/) | Hard | [Soln.](../master/Join/Advanced-Join/1127_User_Purchase_Platform.sql) | 
 | 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/Join/Advanced-Join/1159_Market_Analysis_II.sql) | 
 | 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/Join/Advanced-Join/1194_Tournament_Winners.sql) | 
-
+| 1212 | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/submissions/) | Medium | [Soln.](../master/Join/Advanced-Join/1212_Team_Scores_in_Football_Tournament.sql) | 
+| 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | Hard | [Soln.](../master/Join/Advanced-Join/1225_Report_Contiguous_Dates.sql) | 
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | [Soln.](../master/Join/Advanced-Join/1251_Average_Selling_Price.sql) | 
 
 ### Subquery
 
@@ -136,6 +139,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1158_Market_Analysis_I.sql) | 
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1174_Immediate_Food_Delivery_II.sql) | 
 | 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1204_Last_Person_to_Fit_in_the_Elevator.sql) | 
+| 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/1225_Report_Contiguous_Dates.sql) | 
 
 -  Advanced Subquery
 
@@ -152,7 +156,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1159 | [Market Analysis I](https://leetcode.com/problems/market-analysis-ii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1159_Market_Analysis_II.sql) | 
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1164_Product_Price_at_a_Given_Date.sql) | 
 | 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/1194_Tournament_Winners.sql) | 
-| 1205 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1205_Monthly_Transactions_II.sql) | 
+| 1205 | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1205_Monthly_Transactions_II.sql) | 
+
 
 -  Recursive CTE
 
@@ -196,6 +201,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/Window-Function/1174_Immediate_Food_Delivery_II.sql) | 
 | 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/Window-Function/1194_Tournament_Winners.sql) | 
 | 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | Medium | [Soln.](../master/Window-Function/1204_Last_Person_to_Fit_in_the_Elevator.sql) | 
+| 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | Hard | [Soln.](../master/Window-Function/1225_Report_Contiguous_Dates.sql) | 
+
 
 ### CASE WHEN (or IIF)
 
@@ -217,6 +224,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | Medium | [Soln.](../master/CASE-WHEN/1174_Immediate_Food_Delivery_II.sql) | 
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | Medium | [Soln.](../master/CASE-WHEN/1193_Monthly_Transactions_I.sql) | 
 | 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/CASE-WHEN/1194_Tournament_Winners.sql) | 
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | [Soln.](../master/CASE-WHEN/1211_Queries_Quality_and_Percentage.sql) | 
+| 1212 | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/submissions/) | Medium | [Soln.](../master/CASE-WHEN/1212_Team_Scores_in_Football_Tournament.sql) | 
 
 
 ### OFFSET FETCH
@@ -329,4 +338,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | Medium | [Soln.](../master/Questions_by_ID/1193_Monthly_Transactions_I.sql) | 
 | 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/Questions_by_ID/1194_Tournament_Winners.sql) | 
 | 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | Medium | [Soln.](../master/Questions_by_ID/1204_Last_Person_to_Fit_in_the_Elevator.sql) | 
-| 1205 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Questions_by_ID/1205_Monthly_Transactions_II.sql) | 
+| 1205 | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Questions_by_ID/1205_Monthly_Transactions_II.sql) | 
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | Easy | [Soln.](../master/Questions_by_ID/1211_Queries_Quality_and_Percentage.sql) | 
+| 1212 | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/submissions/) | Medium | [Soln.](../master/Questions_by_ID/1212_Team_Scores_in_Football_Tournament.sql) | 
+| 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | Hard | [Soln.](../master/Questions_by_ID/1225_Report_Contiguous_Dates.sql) | 
+| 1241 | [Number of Comments per Post](https://leetcode.com/problems/number-of-comments-per-post/) | Easy | [Soln.](../master/Questions_by_ID/1241_Number_of_Comments_per_Post.sql) | 
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | [Soln.](../master/Questions_by_ID/1251_Average_Selling_Price.sql) | 
