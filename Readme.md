@@ -78,6 +78,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1270 | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/) | Medium | [Soln.](../master/Join/Simple-Join/1270_All_People_Report_to_the_Given_Manager.sql) | 
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | [Soln.](../master/Join/Simple-Join/1280_Students_and_Examinations.sql) | 
 | 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | Easy | [Soln.](../master/Join/Simple-Join/1294_Weather_Type_in_Each_Country.sql) | 
+| 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Join/Simple-Join/1303_Find_the_Team_Size.sql) | 
 
 
 - Advanced Join 
@@ -103,6 +104,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | Hard | [Soln.](../master/Join/Advanced-Join/1225_Report_Contiguous_Dates.sql) | 
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | [Soln.](../master/Join/Advanced-Join/1251_Average_Selling_Price.sql) | 
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Join/Advanced-Join/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) | 
+| 1308 | [Running Total for Different Genders] | Medium | [Soln.](../master/Join/Advanced-Join/1308_Running_Total_for_Different_Genders.sql) | 
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Join/Advanced-Join/1321_Restaurant_Growth.sql) | 
 
 
 
@@ -151,8 +154,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1280_Students_and_Examinations.sql) | 
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) | 
 | 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1294_Weather_Type_in_Each_Country.sql) | 
-| 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1303_Find_the_Team_Size.sql) | 
-
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1321_Restaurant_Growth.sql) | 
 
 -  Advanced Subquery
 
@@ -217,6 +219,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | Hard | [Soln.](../master/Window-Function/1225_Report_Contiguous_Dates.sql) | 
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Window-Function/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) |
 | 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Window-Function/1303_Find_the_Team_Size.sql) | 
+| 1308 | [Running Total for Different Genders] | Medium | [Soln.](../master/Window-Function/1308_Running_Total_for_Different_Genders.sql) | 
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Window-Function/1321_Restaurant_Growth.sql) | 
+
 
 
 ### CASE WHEN (or IIF)
@@ -251,7 +256,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 |---|---|---|---|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../blob/master/OFFSET-FETCH/176_Second_Highest_Salary.sql) |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/OFFSET-FETCH/177_Nth_Highest_Salary.sql) |
-
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/OFFSET-FETCH/1321_Restaurant_Growth.sql) | 
 
 
 ### PIVOT & UNPIVOT
@@ -367,3 +372,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Questions_by_ID/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) | 
 | 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | Easy | [Soln.](../master/Questions_by_ID/1294_Weather_Type_in_Each_Country.sql) | 
 | 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Questions_by_ID/1303_Find_the_Team_Size.sql) | 
+| 1308 | [Running Total for Different Genders] | Medium | [Soln.](../master/Questions_by_ID/1308_Running_Total_for_Different_Genders.sql) | 
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Questions_by_ID/1321_Restaurant_Growth.sql) | 
