@@ -151,7 +151,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1280_Students_and_Examinations.sql) | 
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) | 
 | 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1294_Weather_Type_in_Each_Country.sql) | 
-
+| 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1303_Find_the_Team_Size.sql) | 
 
 
 -  Advanced Subquery
@@ -215,7 +215,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/Window-Function/1194_Tournament_Winners.sql) | 
 | 1204 | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator/) | Medium | [Soln.](../master/Window-Function/1204_Last_Person_to_Fit_in_the_Elevator.sql) | 
 | 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | Hard | [Soln.](../master/Window-Function/1225_Report_Contiguous_Dates.sql) | 
-| 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Window-Function/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) | 
+| 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Window-Function/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) |
+| 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Window-Function/1303_Find_the_Team_Size.sql) | 
 
 
 ### CASE WHEN (or IIF)
@@ -365,3 +366,4 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | [Soln.](../master/Questions_by_ID/1280_Students_and_Examinations.sql) | 
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Questions_by_ID/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) | 
 | 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | Easy | [Soln.](../master/Questions_by_ID/1294_Weather_Type_in_Each_Country.sql) | 
+| 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Questions_by_ID/1303_Find_the_Team_Size.sql) | 
