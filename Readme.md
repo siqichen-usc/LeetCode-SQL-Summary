@@ -81,6 +81,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Join/Simple-Join/1303_Find_the_Team_Size.sql) | 
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | Easy | [Soln.](../master/Join/Simple-Join/1327_List_the_Products_Ordered_in_a_Period.sql) | 
 | 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Join/Simple-Join/1336_Number_of_Transactions_per_Visit.sql) | 
+| 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | Easy | [Soln.](../master/Join/Simple-Join/1350_Students_With_Invalid_Departments.sql) | 
+| 1364 | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | Medium | [Soln.](../master/Join/Simple-Join/1364_Number_of_Trusted_Contacts_of_a_Customer.sql) |
 
 - Advanced Join 
 
@@ -107,7 +109,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Join/Advanced-Join/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) | 
 | 1308 | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/) | Medium | [Soln.](../master/Join/Advanced-Join/1308_Running_Total_for_Different_Genders.sql) | 
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Join/Advanced-Join/1321_Restaurant_Growth.sql) | 
-
+| 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard | [Soln.](../master/Join/Advanced-Join/1369_Get_the_Second_Most_Recent_Activity.sql) |
 
 
 ### Subquery
@@ -158,6 +160,11 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1321_Restaurant_Growth.sql) | 
 | 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1322_Ads_Performance.sql) |
 | 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/1336_Number_of_Transactions_per_Visit.sql) | 
+| 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1341_Movie_Rating.sql) | 
+| 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1350_Students_With_Invalid_Departments.sql) | 
+| 1355 | [Activity Participants](https://leetcode.com/problems/activity-participants/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1355_Activity_Participants.sql) | 
+| 1364 | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1364_Number_of_Trusted_Contacts_of_a_Customer.sql) |
+| 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/1369_Get_the_Second_Most_Recent_Activity.sql) |
 
 
 -  Advanced Subquery
@@ -227,7 +234,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Window-Function/1303_Find_the_Team_Size.sql) | 
 | 1308 | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/) | Medium | [Soln.](../master/Window-Function/1308_Running_Total_for_Different_Genders.sql) | 
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Window-Function/1321_Restaurant_Growth.sql) | 
-
+| 1355 | [Activity Participants](https://leetcode.com/problems/activity-participants/) | Medium | [Soln.](../master/Window-Function/1355_Activity_Participants.sql) | 
+| 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard | [Soln.](../master/Window-Function/1369_Get_the_Second_Most_Recent_Activity.sql) |
 
 
 ### CASE WHEN (or IIF)
@@ -385,3 +393,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Soln.](../master/Questions_by_ID/1322_Ads_Performance.sql) | 
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | Easy | [Soln.](../master/Questions_by_ID/1327_List_the_Products_Ordered_in_a_Period.sql) | 
 | 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Questions_by_ID/1336_Number_of_Transactions_per_Visit.sql) | 
+| 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | Medium | [Soln.](../master/Questions_by_ID/1341_Movie_Rating.sql) | 
+| 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | Easy | [Soln.](../master/Questions_by_ID/1350_Students_With_Invalid_Departments.sql) | 
+| 1355 | [Activity Participants](https://leetcode.com/problems/activity-participants/) | Medium | [Soln.](../master/Questions_by_ID/1355_Activity_Participants.sql) |
+| 1364 | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | Medium | [Soln.](../master/Questions_by_ID/1364_Number_of_Trusted_Contacts_of_a_Customer.sql) |
+| 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard | [Soln.](../master/Questions_by_ID/1369_Get_the_Second_Most_Recent_Activity.sql) |
