@@ -79,7 +79,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | Easy | [Soln.](../master/Join/Simple-Join/1280_Students_and_Examinations.sql) | 
 | 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | Easy | [Soln.](../master/Join/Simple-Join/1294_Weather_Type_in_Each_Country.sql) | 
 | 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Join/Simple-Join/1303_Find_the_Team_Size.sql) | 
-
+| 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | Easy | [Soln.](../master/Join/Simple-Join/1327_List_the_Products_Ordered_in_a_Period.sql) | 
+| 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Join/Simple-Join/1336_Number_of_Transactions_per_Visit.sql) | 
 
 - Advanced Join 
 
@@ -104,7 +105,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | Hard | [Soln.](../master/Join/Advanced-Join/1225_Report_Contiguous_Dates.sql) | 
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | Easy | [Soln.](../master/Join/Advanced-Join/1251_Average_Selling_Price.sql) | 
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Join/Advanced-Join/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) | 
-| 1308 | [Running Total for Different Genders] | Medium | [Soln.](../master/Join/Advanced-Join/1308_Running_Total_for_Different_Genders.sql) | 
+| 1308 | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/) | Medium | [Soln.](../master/Join/Advanced-Join/1308_Running_Total_for_Different_Genders.sql) | 
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Join/Advanced-Join/1321_Restaurant_Growth.sql) | 
 
 
@@ -155,6 +156,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) | 
 | 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1294_Weather_Type_in_Each_Country.sql) | 
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/1321_Restaurant_Growth.sql) | 
+| 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/1322_Ads_Performance.sql) |
+| 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Subquery/Simple-Subquery/1336_Number_of_Transactions_per_Visit.sql) | 
+
 
 -  Advanced Subquery
 
@@ -174,12 +178,14 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1205 | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1205_Monthly_Transactions_II.sql) | 
 | 1270 | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1270_All_People_Report_to_the_Given_Manager.sql) | 
 
+
+
 -  Recursive CTE
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
 | 1270 | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/) | Medium | [Soln.](../master/Subquery/Recursive-CTE/1270_All_People_Report_to_the_Given_Manager.sql) | 
-
+| 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Subquery/Recursive-CTE/1336_Number_of_Transactions_per_Visit.sql) | 
 
 
 ### Window Function
@@ -219,7 +225,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1225 | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates/) | Hard | [Soln.](../master/Window-Function/1225_Report_Contiguous_Dates.sql) | 
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Window-Function/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) |
 | 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Window-Function/1303_Find_the_Team_Size.sql) | 
-| 1308 | [Running Total for Different Genders] | Medium | [Soln.](../master/Window-Function/1308_Running_Total_for_Different_Genders.sql) | 
+| 1308 | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/) | Medium | [Soln.](../master/Window-Function/1308_Running_Total_for_Different_Genders.sql) | 
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Window-Function/1321_Restaurant_Growth.sql) | 
 
 
@@ -248,7 +254,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1212 | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament/submissions/) | Medium | [Soln.](../master/CASE-WHEN/1212_Team_Scores_in_Football_Tournament.sql) | 
 | 1264 | [Page Recommendations](https://leetcode.com/problems/page-recommendations/) | Medium | [Soln.](../master/CASE-WHEN/1264_Page_Recommendations.sql) | 
 | 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | Easy | [Soln.](../master/CASE-WHEN/1294_Weather_Type_in_Each_Country.sql) | 
-
+| 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Soln.](../master/CASE-WHEN/1322_Ads_Performance.sql) |
 
 ### OFFSET FETCH
 
@@ -266,6 +272,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium |  [Soln.](../master/PIVOT-UNPIVOT/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/PIVOT-UNPIVOT/618_Students_Report_By_Geography.sql) | 
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy | [Soln.](../master/PIVOT-UNPIVOT/1179_Reformat_Department_Table.sql) | 
+| 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Soln.](../master/PIVOT-UNPIVOT/1322_Ads_Performance.sql) |
+
 
 ### Variable
 
@@ -372,5 +380,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges/) | Medium | [Soln.](../master/Questions_by_ID/1285_Find_the_Start_and_End_Number_of_Continuous_Ranges.sql) | 
 | 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | Easy | [Soln.](../master/Questions_by_ID/1294_Weather_Type_in_Each_Country.sql) | 
 | 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | Easy | [Soln.](../master/Questions_by_ID/1303_Find_the_Team_Size.sql) | 
-| 1308 | [Running Total for Different Genders] | Medium | [Soln.](../master/Questions_by_ID/1308_Running_Total_for_Different_Genders.sql) | 
+| 1308 | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/) | Medium | [Soln.](../master/Questions_by_ID/1308_Running_Total_for_Different_Genders.sql) | 
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/Questions_by_ID/1321_Restaurant_Growth.sql) | 
+| 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Soln.](../master/Questions_by_ID/1322_Ads_Performance.sql) | 
+| 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | Easy | [Soln.](../master/Questions_by_ID/1327_List_the_Products_Ordered_in_a_Period.sql) | 
+| 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Questions_by_ID/1336_Number_of_Transactions_per_Visit.sql) | 
