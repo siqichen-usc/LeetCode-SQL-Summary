@@ -83,6 +83,9 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Join/Simple-Join/1336_Number_of_Transactions_per_Visit.sql) | 
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | Easy | [Soln.](../master/Join/Simple-Join/1350_Students_With_Invalid_Departments.sql) | 
 | 1364 | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | Medium | [Soln.](../master/Join/Simple-Join/1364_Number_of_Trusted_Contacts_of_a_Customer.sql) |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | [Soln.](../master/Join/Simple-Join/1378_Replace_Employee_ID_With_The_Unique_Identifier.sql) |
+| 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Soln.](../master/Join/Simple-Join/1384_Total_Sales_Amount_by_Year.sql) |
+
 
 - Advanced Join 
 
@@ -184,7 +187,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1194 | [Tournament Winners](https://leetcode.com/problems/tournament-winners/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/1194_Tournament_Winners.sql) | 
 | 1205 | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1205_Monthly_Transactions_II.sql) | 
 | 1270 | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1270_All_People_Report_to_the_Given_Manager.sql) | 
-
+| 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) |
 
 
 -  Recursive CTE
@@ -193,6 +196,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 |---|---|---|---|
 | 1270 | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/) | Medium | [Soln.](../master/Subquery/Recursive-CTE/1270_All_People_Report_to_the_Given_Manager.sql) | 
 | 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Subquery/Recursive-CTE/1336_Number_of_Transactions_per_Visit.sql) | 
+| 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Soln.](../master/Subquery/Recursive-CTE/1384_Total_Sales_Amount_by_Year.sql) |
 
 
 ### Window Function
@@ -263,6 +267,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1264 | [Page Recommendations](https://leetcode.com/problems/page-recommendations/) | Medium | [Soln.](../master/CASE-WHEN/1264_Page_Recommendations.sql) | 
 | 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/) | Easy | [Soln.](../master/CASE-WHEN/1294_Weather_Type_in_Each_Country.sql) | 
 | 1322 | [Ads Performance](https://leetcode.com/problems/ads-performance/) | Easy | [Soln.](../master/CASE-WHEN/1322_Ads_Performance.sql) |
+| 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | [Soln.](../master/CASE-WHEN/1393_Capital_Gain_Loss.sql) |
+| 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium | [Soln.](../master/CASE-WHEN/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) |
 
 ### OFFSET FETCH
 
@@ -398,3 +404,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1355 | [Activity Participants](https://leetcode.com/problems/activity-participants/) | Medium | [Soln.](../master/Questions_by_ID/1355_Activity_Participants.sql) |
 | 1364 | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | Medium | [Soln.](../master/Questions_by_ID/1364_Number_of_Trusted_Contacts_of_a_Customer.sql) |
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard | [Soln.](../master/Questions_by_ID/1369_Get_the_Second_Most_Recent_Activity.sql) |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | [Soln.](../master/Questions_by_ID/1378_Replace_Employee_ID_With_The_Unique_Identifier.sql) |
+| 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Soln.](../master/Questions_by_ID/1384_Total_Sales_Amount_by_Year.sql) |
+| 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | [Soln.](../master/Questions_by_ID/1393_Capital_Gain_Loss.sql) |
+| 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium | [Soln.](../master/Questions_by_ID/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) |
