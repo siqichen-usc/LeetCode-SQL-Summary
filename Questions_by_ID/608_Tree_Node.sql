@@ -1,4 +1,4 @@
--- Solution: CASE WHEN
+-- Solution: CASE WHEN, Subquery
 SELECT id,
     CASE
         WHEN p_id IS NULL THEN 'Root'
