@@ -2,6 +2,8 @@
 SELECT CAST(
     AVG(
         CASE
+            -- using 100.0 rather than 100 is to ensure the type of number is float
+            -- so that the number will have digits after the decimal point when averaging
             WHEN order_date = customer_pref_delivery_date THEN 100.0
             ELSE 0
         END
