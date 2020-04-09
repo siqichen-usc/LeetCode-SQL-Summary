@@ -10,7 +10,9 @@ WHERE w1.temperature < w2.temperature;
 -- Solution 2: Window Function, Subquery
 SELECT id
 FROM (
-    SELECT *, LAG(temperature) OVER (ORDER BY recorddate) AS prev_temp,
+    SELECT *, 
+        -- Get temperature and date of previous record date, if none get null
+        LAG(temperature) OVER (ORDER BY recorddate) AS prev_temp,
         LAG(recorddate) OVER (ORDER BY recorddate) prev_date
     FROM weather
     ) tb1
