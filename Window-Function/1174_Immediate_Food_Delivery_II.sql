@@ -1,5 +1,6 @@
 WITH tb1 AS (
     SELECT order_date, customer_pref_delivery_date,
+        -- identify first order of each customer
         ROW_NUMBER() OVER (PARTITION BY customer_id ORDER BY order_date) AS r
     FROM delivery
 )
