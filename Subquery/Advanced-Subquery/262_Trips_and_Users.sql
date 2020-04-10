@@ -5,6 +5,7 @@ WITH t1 AS (
             ELSE 1.0
         END AS status
     FROM trips t
+    -- filter our banned client and driver and limit time frame
     WHERE client_id NOT IN (SELECT users_id FROM users WHERE banned = 'Yes')
         AND driver_id NOT IN (SELECT users_id FROM users WHERE banned = 'Yes')
         AND request_at BETWEEN '2013-10-01' AND '2013-10-03'
