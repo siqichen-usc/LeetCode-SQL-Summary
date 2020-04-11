@@ -10,4 +10,6 @@ WITH tb1 AS (
 
 SELECT id, company, salary
 FROM tb1
+-- when num % 2 = 0, the r of the median is num/2 and num/2 + 1
+-- when num % 2 = 1, the r of the median is (num+1)/2, between num/2 and num/2 + 1
 WHERE r BETWEEN num*1.0/2 AND num*1.0/2 + 1;
