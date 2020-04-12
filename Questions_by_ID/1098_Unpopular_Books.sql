@@ -2,6 +2,7 @@
 SELECT book_id, name
 FROM Books
 WHERE available_from <= '2019-05-23' 
+    -- find books that have sold more than 10 copies in the last year
     AND book_id NOT IN (
         SELECT book_id
         FROM Orders
@@ -23,6 +24,7 @@ SET @d = '2019-06-23';
 SELECT book_id, name
 FROM Books
 WHERE available_from <= DATEADD(month, -1, @d)
+    -- find books that have sold more than 10 copies in the last year
     AND book_id NOT IN (
         SELECT book_id
         FROM Orders
