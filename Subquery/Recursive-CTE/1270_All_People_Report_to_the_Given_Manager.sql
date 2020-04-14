@@ -1,3 +1,5 @@
+-- find employees directly report to managers directly,
+-- and then find people who report to managers indirectly using cte
 WITH cte AS (
     SELECT employee_id
     FROM Employees
