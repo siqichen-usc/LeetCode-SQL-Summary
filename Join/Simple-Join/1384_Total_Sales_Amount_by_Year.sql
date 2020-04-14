@@ -1,3 +1,4 @@
+-- get all dates from MIN(period_start) to MAX(period_end)
 WITH cte AS (
     SELECT MIN(period_start) AS date, MAX(period_end) AS end_date
     FROM Sales
@@ -7,6 +8,7 @@ WITH cte AS (
     WHERE date < end_date
 )
 
+-- after join, products will have same number of records as the number of days in sale period
 SELECT s.product_id AS PRODUCT_ID,
     p.product_name AS PRODUCT_NAME, 
     CAST(Year(cte.date) AS CHAR(4)) AS REPORT_YEAR, 
