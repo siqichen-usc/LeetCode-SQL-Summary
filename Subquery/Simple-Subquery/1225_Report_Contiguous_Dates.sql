@@ -1,5 +1,5 @@
 -- Solution 1: Subquery, Window Function
- WITH tb1 AS (
+WITH tb1 AS (
     SELECT fail_date AS date, 'failed' AS s
     FROM Failed
     UNION
