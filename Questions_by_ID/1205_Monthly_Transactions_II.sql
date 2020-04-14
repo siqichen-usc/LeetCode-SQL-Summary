@@ -1,4 +1,5 @@
 -- Solution: Subquery, Join
+-- find the number of approved transactions and their total amount for each month and country 
 WITH tb1 AS (
     SELECT LEFT(trans_date,7) AS month, country,
         COUNT(state) AS approved_count,
@@ -7,6 +8,7 @@ WITH tb1 AS (
     WHERE state = 'approved'
     GROUP BY LEFT(trans_date,7), country
 ),
+-- find the number of chargebacks and their total amount for each month and country
 tb2 AS (
     SELECT LEFT(c.trans_date,7) AS month, country,
         COUNT(c.trans_id) AS chargeback_count,
@@ -17,6 +19,8 @@ tb2 AS (
     GROUP BY LEFT(c.trans_date,7), country
 )
 
+-- when there is no approved transactions or chargebacks for a country in a certain month,
+-- replace the NULL with 0
 SELECT COALESCE(tb1.month,tb2.month) AS month,
      COALESCE(tb1.country,tb2.country) AS country,
      ISNULL(tb1.approved_count,0) AS approved_count,
