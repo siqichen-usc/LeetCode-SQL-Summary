@@ -1,4 +1,5 @@
 -- Solution 1: Window Function, Subquery, Join, CASE WHEN
+-- get item_id of the second item (by date) they sold for each user
 WITH tb1 AS (
     SELECT seller_id, item_id
     FROM (
@@ -9,6 +10,8 @@ WITH tb1 AS (
     WHERE r = 2
 )
 
+-- compare the brand of the second item (by date) they sold with their favorite brand for each user
+-- if a user sold less than two items, he/she will have no data from tb1, and thus will be assigned 'no'
 SELECT u.user_id AS seller_id,
     CASE
         WHEN u.favorite_brand = i.item_brand THEN 'yes'
@@ -23,6 +26,7 @@ ON tb1.item_id = i.item_id;
 
 
 -- Solution 2: Join, Subquery, CASE WHEN
+-- get item_id of the second item (by date) they sold for each user (having only two sales records on or before o1.order_date)
 WITH tb1 AS (
     SELECT o1.seller_id, o1.item_id
     FROM Orders o1
@@ -32,6 +36,8 @@ WITH tb1 AS (
     HAVING COUNT(*) = 2
 )
 
+-- compare the brand of the second item (by date) they sold with their favorite brand for each user
+-- if a user sold less than two items, he/she will have no data from tb1, and thus will be assigned 'no'
 SELECT u.user_id AS seller_id,
     CASE
         WHEN u.favorite_brand = i.item_brand THEN 'yes'
