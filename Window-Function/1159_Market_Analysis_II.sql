@@ -1,3 +1,4 @@
+-- get item_id of the second item (by date) they sold for each user
 WITH tb1 AS (
     SELECT seller_id, item_id
     FROM (
@@ -8,6 +9,8 @@ WITH tb1 AS (
     WHERE r = 2
 )
 
+-- compare the brand of the second item (by date) they sold with their favorite brand for each user
+-- if a user sold less than two items, he/she will have no data from tb1, and thus will be assigned 'no'
 SELECT u.user_id AS seller_id,
     CASE
         WHEN u.favorite_brand = i.item_brand THEN 'yes'
