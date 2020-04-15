@@ -1,4 +1,5 @@
 -- Solution 1: Subquery, Join, Window Function
+-- merge first and second players and their scores into two columns
 WITH tb1 AS (
     SELECT first_player AS player, first_score as score
     FROM Matches
@@ -6,6 +7,7 @@ WITH tb1 AS (
     SELECT second_player, second_score
     FROM Matches
 ),
+-- calculate total points scored by each user along with their group information
 tb2 AS (
     SELECT p.player_id, p.group_id, SUM(tb1.score) AS tp
     FROM Players p
@@ -14,6 +16,7 @@ tb2 AS (
     GROUP BY p.player_id, p.group_id
 )
 
+-- find the winner with lowest player_id in each group who scored the maximum total points within the group
 SELECT group_id, player_id
 FROM (
     SELECT player_id, group_id,
@@ -25,6 +28,7 @@ WHERE r = 1;
 
 
 -- Solution 2: Subquery, Join, CASE WEHN, Window Function
+-- calculate total points scored by each user along with their group information
 WITH tb1 AS (
     SELECT player_id, group_id,
         SUM(
@@ -39,6 +43,7 @@ WITH tb1 AS (
     GROUP BY player_id, group_id
 )
 
+-- find the winner with lowest player_id in each group who scored the maximum total points within the group
 SELECT group_id, player_id
 FROM (
     SELECT player_id, group_id,
