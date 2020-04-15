@@ -1,3 +1,4 @@
+-- judge whether user used mobile only, desktop only or both mobile and desktop together for each date
 WITH tb1 AS (
     SELECT user_id,spend_date,amount,
         CASE 
@@ -6,6 +7,7 @@ WITH tb1 AS (
         END AS platform
     FROM Spending
 ),
+-- calculate the total amount each user spent by date along with platform information
 tb2 AS (
     SELECT spend_date, platform,
         SUM(amount) AS total_amount, 
