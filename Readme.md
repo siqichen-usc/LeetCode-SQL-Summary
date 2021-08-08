@@ -1,16 +1,37 @@
 # LeetCode SQL Summary
 
-**_Last updated on April 15, 2020, covered 104 LeetCode SQL questions_**
+**_Last updated on August 8, 2021, covered 106 LeetCode SQL questions_**
+
+**WIP**
+- Update new SQL questions (Estimated Time: 31 August, 2021)
+- Rearrange the repository (Estimated Time: 25 September, 2021 - My Brithday :D)
+  1) Only one solution folder will be kept 
+  2) Update solution link 
+  3) Add Column "Topic" for [LeetCode SQL Questions by ID](#leetcode-sql-questions-by-id)
 
 ## Intro
 
-After finishing all 102 LeetCode SQL questions, I feel the urge to summarize them by topics they are trying to test. 
+After finishing all 102 LeetCode SQL questions, I feel it could be good to summarize all questions by topics. 
 
-This note aims to **help people _learn and review SQL effeciently_**, espeically when trying to **have a quick catch up on a certain topic**, e.g. complex join, window function, recursive CTE and etc.
+This note aims to **help people _learn and review SQL effeciently_**, espeically when trying to **have a quick catch up on a certain topic**, e.g. complex join, window function, recursive CTE and etc. If you would like to try questions by ID, you could jump to [LeetCode SQL Questions by ID](#leetcode-sql-questions-by-id) where I list all questions coverred in this repository.
 
 And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
-## LeetCode SQL Questions by Topcis
+## Table of Content
+
+  * [LeetCode SQL Questions by Topcis](#leetcode-sql-questions-by-topics)
+    + [Basics](#basics)
+    + [SQL Command](#sql-command)
+    + [Join](#join)
+    + [Subquery](#subquery)
+    + [Window Function](#window-function)
+    + [CASE WHEN / IIF](#case-when-or-iif)
+    + [OFFSET FETCH](#offset-fetch)
+    + [PIVOT & UNPIVOT](#pivot-and-unpivot)
+    + [Variable](#variable)
+  * [LeetCode SQL Questions by ID](#leetcode-sql-questions-by-id)
+
+## LeetCode SQL Questions by Topics
 
 
 ### Basics
@@ -87,7 +108,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1364 | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | Medium | [Soln.](../master/Join/Simple-Join/1364_Number_of_Trusted_Contacts_of_a_Customer.sql) |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | [Soln.](../master/Join/Simple-Join/1378_Replace_Employee_ID_With_The_Unique_Identifier.sql) |
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Soln.](../master/Join/Simple-Join/1384_Total_Sales_Amount_by_Year.sql) |
-
+| 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | [Soln.](../master/Join/Simple-Join/1407_Top_Travellers.sql) |
 
 - Advanced Join 
 
@@ -245,7 +266,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1369 | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity/) | Hard | [Soln.](../master/Window-Function/1369_Get_the_Second_Most_Recent_Activity.sql) |
 
 
-### CASE WHEN (or IIF)
+### CASE WHEN or IIF
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
@@ -282,7 +303,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/OFFSET-FETCH/1321_Restaurant_Growth.sql) | 
 
 
-### PIVOT & UNPIVOT
+### PIVOT and UNPIVOT
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
@@ -411,3 +432,5 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Soln.](../master/Questions_by_ID/1384_Total_Sales_Amount_by_Year.sql) |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | [Soln.](../master/Questions_by_ID/1393_Capital_Gain_Loss.sql) |
 | 1398 | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/) | Medium | [Soln.](../master/Questions_by_ID/1398_Customers_Who_Bought_Products_A_and_B_but_Not_C.sql) |
+| 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | [Soln.](../master/Questions_by_ID/1407_Top_Travellers.sql) |
+| 1412 | [Find The Quiet Students in All Exams](https://leetcode.com/problems/find-the-quiet-students-in-all-exams/) | Medium | [Soln.](../master/Questions_by_ID/1412_Find_The_Quiet_Students_in_All_Exams.sql) |
