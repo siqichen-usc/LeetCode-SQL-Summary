@@ -10,4 +10,3 @@ SELECT stock_name,
     ) AS capital_gain_loss
 FROM Stocks
 GROUP BY stock_name;
-    SELECT *, 
